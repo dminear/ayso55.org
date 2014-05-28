@@ -1,13 +1,3 @@
-## Deadline Extended for Fall 2014 Season
-Because we had some website and email issues during that last registration due to a certain webmaster,
-we are extending the $140 price until May 23rd! Just print out 2 applications, sign, and mail in to the contact address (see the registration page for all the fine print -- if new player to Region 55, a copy of the birth certificate, blah, blah):
-
-AYSO Region 55</br>
-PO Box 1852</br>
-Huntington Beach, CA 92647</br>
-
-After May 23rd the price will go up to $160 so do it today!
-
 ## 2013-2014 REGIONAL ASSESSMENT AWARD - PLATINUM!
 
 As Commissioner of Region 55, I am pleased to report your region has achieved the highest honor available in AYSO - PLATINUM!

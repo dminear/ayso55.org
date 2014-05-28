@@ -5,13 +5,11 @@ If a new volunteer, then follow the [new volunteers](http://www.ayso55.org/docs/
 
 If returning volunteer, then follow the [returning volunteers](http://www.ayso55.org/docs/Fall2014/Returning%20volunteers.pdf) handout.
 
-## Deadline Extended for Fall 2014 Season
-Because we had some website and email issues during that last registration,
-we are extending the $140 price until May 23rd! Just print out 2 applications and mail in to the contact address:
+### Mail Address
 
-AYSO Region 55
-PO Box 1852
-Huntington Beach, CA 92647
+AYSO Region 55</br>
+PO Box 1852</br>
+Huntington Beach, CA 92647</br>
 
 [Registration flyer](http://www.ayso55.org/docs/Fall2014/2014%20Registration%20Flyer.pdf)
 
