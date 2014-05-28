@@ -1,0 +1,25 @@
+!!!
+html
+  head
+    link(rel="stylesheet", href="/css/bootstrap.min.css")
+    link(rel="stylesheet" href="/css/bootstrap-theme.min.css")
+    link(rel="stylesheet", href="/main.css")
+  body
+    div.top
+      div.header
+        div.logo
+          img(src="/images/r55logo-woody-trans-nohb-200x159.gif" width="120" height="100")
+        div
+          div.title AYSO Section 11 Area K Region 55
+          div.subtitle North Huntington Beach Region
+      div.nav
+        != partial("_navbar")
+      div.content
+        div.mission
+          != partial("_mission")
+        div.right
+          != yield
+        div.main
+    div.footer Region 55 message center a.k.a. "Mudline" 714-585-3161
+    script(src="/jquery/jquery-1.10.2.min.js")
+    script(src="/js/bootstrap.min.js")
