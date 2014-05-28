@@ -2,4 +2,4 @@
 
 harp compile /var/www/ayso55.org aysoout
 #s3cmd sync --rexclude=.git --skip-existing --delete-removed aysoout/ s3://ayso55.org
-s3cmd sync --rexclude=.git --delete-removed aysoout/ s3://ayso55.org
+s3cmd sync --config=/home/dan/.s3cfg --rexclude=.git --delete-removed aysoout/ s3://ayso55.org
