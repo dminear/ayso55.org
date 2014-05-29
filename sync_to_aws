@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm -rf aysoout
+#rm -rf aysoout
 harp compile /var/www/minear.homeunix.com/ayso55.org aysoout
 #s3cmd sync --config=/home/dan/.s3cfg --rexclude=.git --skip-existing --delete-removed aysoout/ s3://ayso55.org
 s3cmd sync --config=/home/dan/.s3cfg --rexclude=/old/ --rexclude=.git --delete-removed aysoout/ s3://ayso55.org
