@@ -14,8 +14,31 @@ Butch
 
 ***
 
+### New Regional Referee Administrator
+
+Dear Friends, Families, and Supporters of Region 55,
+
+Please join me in welcoming and congratulating our newest Executive Board Member, Loren Maddy!
+
+I asked Loren to accept the role of Regional Referee Administrator (RRA) effective immediately, taking over for Klaus Schlechner who is stepping down for personal reasons.
+
+Klaus has been our RRA for several years and has been instrumental in driving our referee program, insisting on excellence, and spearheading one of the premier referee programs in AYSO!
+
+Thank you for all you've done Klaus!
+
+Loren has played a big part in R55.  The past few seasons Loren has flawlessly coordinated a few divisions, assisted in All Star Tryouts, Extra Tryouts, and this past Spring we asked Loren to assume a larger role to ensure success. With his Advanced Referee Badge, Loren is often found officiating several matches and providing leadership on the fields.
+
+Once again, congratulations and welcome Loren!
+
+Butch</br>
+Commissioner R55
+
+***
+
 ## Fall 2014 Registration Time is Here!
 Go to the [registration](/registration.html) page.
+
+***
 
 ## Extra Program
 The Extra Program is for a more competitive level of soccer play. Please let 
