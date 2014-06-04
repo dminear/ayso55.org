@@ -1,15 +1,23 @@
 ## Registration
+
+### Late Registration
+
+Mail two signed copies of the registration form (fill out at www.eayso.org) and the late registration fee of $160.00 to:
+
+AYSO Region 55</br>
+PO Box 1852</br>
+Huntington Beach, CA 92647</br>
+
+If there is a spot available on a team, your player will be placed.  If not, your player will be placed on a waiting list.  Please note, we get drops and do take players from the wait list.  October 1, 2014 is the last date to place a player on a team.  If your player is not placed, a full refund will be issued.
+
+If you have any questions, please email registrar@ayso55.org or call 714/488-5063.
+
+
 ### Online signup help for new and returning volunteers
 
 If a new volunteer, then follow the [new volunteers](http://www.ayso55.org/docs/Fall2014/New%20volunteers.pdf) handout.
 
 If returning volunteer, then follow the [returning volunteers](http://www.ayso55.org/docs/Fall2014/Returning%20volunteers.pdf) handout.
-
-### Mail Address
-
-AYSO Region 55</br>
-PO Box 1852</br>
-Huntington Beach, CA 92647</br>
 
 [Registration flyer](http://www.ayso55.org/docs/Fall2014/2014%20Registration%20Flyer.pdf)
 
