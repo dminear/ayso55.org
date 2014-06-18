@@ -5,7 +5,7 @@
 
 ## Coach Training Schedules
 
-### Saturday, July 19, 2014 – at College View (6852 Lennox Drive, Huntington Beach, CA)
+### Saturday, July 19, 2014 at College View (6852 Lennox Drive, Huntington Beach, CA)
 
 Coach Meeting to begin at 9:00 AM with training to follow shortly thereafter (approximately
 10:00 AM).
@@ -16,7 +16,7 @@ Coach Meeting to begin at 9:00 AM with training to follow shortly thereafter (ap
 * U10 Coach Training - 10:00 - 1:00
 * U12 Coach Training - 10:00 - 3:00
 
-### Wednesday, July 30, 2014 – at College View (6852 Lennox Drive, Huntington Beach, CA)
+### Wednesday, July 30, 2014 at College View (6852 Lennox Drive, Huntington Beach, CA)
 Meeting to begin at 5:00 pm with training to follow shortly thereafter (approximately 6:00 pm).
 
 * Meeting for all Divisions: 5:00 - 6:00
