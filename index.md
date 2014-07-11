@@ -18,7 +18,7 @@ Butch
 
 ![supercamp](/docs/Fall2014/supercamp.png)
 
-A [flyer](/docs/Fall2014/AYSO 2014_supercamp_flyer August 2014.pdf) is available with the details of the Supercamp. There is tons of training available for the upcoming season, so check out the flyer to see the opportunities.
+A [flyer](/docs/Fall2014/AYSO-2014_supercamp_flyer-August-2014.pdf) is available with the details of the Supercamp. There is tons of training available for the upcoming season, so check out the flyer to see the opportunities.
 
 ***
 
