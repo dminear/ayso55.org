@@ -1,7 +1,6 @@
 ## Coaches Corner
 
-[Fall 2014](/docs/Fall2014/CoachingRequirements-2014Registration.pdf) coaching infomation. Who can coach and what do I need?
-
+[Fall 2014 - address updated-](/docs/Fall2014/CoachingRequirements-2014Registration-revised2.pdf) coaching infomation. Who can coach and what do I need?
 
 ## Coach Training Schedules
 
