@@ -1,3 +1,40 @@
+## Fall 2014 Message
+
+Dear Region 55,
+
+As Commissioner, it is with great pride to provide you an update on R55 for the 2014-2015 year - marking the 40th anniversary of Region 55!
+
+As another year starts, let me also note that R55 is coming off an exceptional year with your region earning the highest recognition possible in AYSO - Platinum!
+
+I'm confident 2014-2015 will be a year of friends, fun, growth, and memories!
+
+We'll have over 1200 kids, filling rosters on about 130 teams, many wearing their jersey to school, the younger ones often sleeping in it on Friday (that's passion!) reuniting with friends and making new friends.
+Coaches coming back for "one more season" (once you start, it's hard to stop!).
+Referees, new and veteran, proudly wearing the "Bumblebee outfit" keeping the matches "Safe, Fun, and Fair".
+Team Parents organizing pizza parties, ordering banners, scheduling practices, communicating team details.
+Team volunteers painting the field, setting up goals, taking down the goals, picking up trash.
+Parents buying new gear, getting their kids to practice on time, picking them up on time, enjoying the match on Saturday, remembering win or lose, it's just a game and they're just kids!
+
+AYSO is an all-volunteer organization. It indeed takes everyone's help!
+
+I'd like to recognize the leadership of R55 that selflessly give their time, energy, and expertise year-round to make it all come together.
+When you see them, thank them for their contribution to R55!
+
+Executive Board:
+
+* Coach Administrators: Mark Di Lauro and Jason Kakimoto
+* Referee Administrator: Loren Maddy
+* Registrar: Denise English
+* Treasurer: Melissa Delgleize
+* CVPA: Hov Daniels
+* Safety Director: Dani DeGrood
+
+Division Coordinators:
+Christine Appell, Stephanie Clobes, Debbie Doherty, Wally Dubno, Troy Johnson, Angie Kessler, Paul Kirby, Marianne Low, Steve McCarthy, Heather Perez, Kelly Rice, Patty Sampson, Doreen Saporito
+
+See you on the field!
+Butch
+
 ## 2013-2014 REGIONAL ASSESSMENT AWARD - PLATINUM!
 
 As Commissioner of Region 55, I am pleased to report your region has achieved the highest honor available in AYSO - PLATINUM!
