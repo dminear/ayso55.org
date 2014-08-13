@@ -1,7 +1,7 @@
 ﻿
 <table border="0" align="center">
   <tr align="center" valign="bottom">
-    <td><b><a name="MESA VIEW">MESA VIEW</a></b></td>
+    <td><b><a name="MESAVIEW">MESA VIEW</a></b></td>
   </tr>
   <tr align="center" valign="bottom">
     <td><font size="3" class="style1">17601 Avilla Ln</font></td>
@@ -21,9 +21,11 @@
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <hr>
 <p>&nbsp;
+
+
 <table border="0" align="center">
   <tr align="center" valign="bottom">
-    <td><b><a name="SUN VIEW">SUN VIEW</a></b></td>
+    <td><b><a name="SUNVIEW">SUN VIEW</a></b></td>
   </tr>
   <tr align="center" valign="bottom">
     <td><font size="3" class="style1">7721 Juliette Low Ln</font></td>
@@ -43,9 +45,11 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <hr>
 <p>&nbsp;
+
+
 <table border="0" align="center">
   <tr align="center" valign="bottom">
-    <td><b><a name="GLEN VIEW">GLEN VIEW</a></b></td>
+    <td><b><a name="GLENVIEW">GLEN VIEW</a></b></td>
   </tr>
   <tr align="center" valign="bottom">
     <td><font size="3">Glen Dr &amp; Sweetbriar Ln</font></td>
@@ -65,9 +69,11 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <hr>
 <p>&nbsp;
+
+
 <table border="0" align="center">
   <tr align="center" valign="bottom">
-    <td><b><a name="LARK VIEW">LARK VIEW</a></b></td>
+    <td><b><a name="LARKVIEW">LARK VIEW</a></b></td>
   </tr>
   <tr align="center" valign="bottom">
     <td><font size="3">17200 Pinehurst Ln</font></td>
@@ -87,9 +93,11 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <hr>
 <p>&nbsp;
+
+
 <table border="0" align="center">
   <tr align="center" valign="bottom">
-    <td><b><a name="COLLEGE VIEW">COLLEGE VIEW</a></b></td>
+    <td><b><a name="COLLEGEVIEW">COLLEGE VIEW</a></b></td>
   </tr>
   <tr align="center" valign="bottom">
     <td><font size="3">6852 Lennox Dr</font></td>
@@ -109,9 +117,11 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <hr>
 <p>&nbsp;
+
+
 <table border="0" align="center">
   <tr align="center" valign="bottom">
-    <td><b><a name="GOLDEN VIEW">GOLDEN VIEW</a></b></td>
+    <td><b><a name="GOLDENVIEW">GOLDEN VIEW</a></b></td>
   </tr>
   <tr align="center" valign="bottom">
     <td><font size="3">17251 Golden View Lane</font></td>
@@ -130,9 +140,11 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
 <img src="../images/ball6.gif" align="middle" width="32" height="31"><a href="#top"><cite>...back 
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <hr>
+
+
 <table border="0" align="center">
   <tr align="center" valign="bottom">
-    <td><b><a name="SPRING VIEW">SPRING VIEW</a></b></td>
+    <td><b><a name="SPRINGVIEW">SPRING VIEW</a></b></td>
   </tr>
   <tr align="center" valign="bottom">
     <td><font size="3">16662 Trudy Lane</font></td>
@@ -152,6 +164,8 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <hr>
 <p>&nbsp;
+
+
 <table border="0" align="center">
   <tr align="center" valign="bottom">
     <td><b><a name="WESTMONT">WESTMONT</a></b></td>
@@ -174,6 +188,8 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <hr>
 <p>&nbsp;
+
+
 <table border="0" align="center">
   <tr align="center" valign="bottom">
     <td><b><a name="CLEGG-STACEY">CLEGG-STACEY</a></b></td>
@@ -196,9 +212,12 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <hr>
 <p>&nbsp;
+
+
 <table border="0" align="center">
   <tr align="center" valign="bottom">
-    <td><b><font face="Verdana" size="4"><a name="GISLER">Gisler</a> School</font></b></td>
+    <td><b><font face="Verdana" size="4">
+      <a name="GISLER">Gisler</a> School</font></b></td>
   </tr>
   <tr align="center" valign="bottom">
     <td><font size="3">18720 Las Flores Street</font></td>
@@ -218,9 +237,12 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <hr>
 <p>&nbsp;
+
+
 <table border="0" align="center">
   <tr align="center" valign="bottom">
-    <td><B><FONT FACE="Verdana" SIZE="4"><A NAME="CUMC">CUMC</A><BR>
+    <td><B><FONT FACE="Verdana" SIZE="4">
+      <A NAME="CUMC">CUMC</A><BR>
       Community United Methodist Church</FONT></B></td>
   </tr>
   <tr align="center" valign="bottom">
@@ -240,10 +262,13 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
 <img src="../images/ball6.gif" align="middle" width="32" height="31"><a href="#top"><cite>...back 
 to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width="32" height="31"></font></p>
 <p align="center">&nbsp;</p>
+
+
 <hr>
 <table border="0" align="center">
   <tr align="center" valign="bottom">
-    <td><B><FONT FACE="Verdana" SIZE="4"><a name="WESTMINSTERCC">Westminster</a> 
+    <td><B><FONT FACE="Verdana" SIZE="4">
+      <a name="WESTMINSTERCC">Westminster</a> 
 	Community Center</FONT></B></td>
   </tr>
   <tr align="center" valign="bottom">
@@ -259,5 +284,3 @@ to Top</cite></a>&nbsp;&nbsp;<img src="../images/ball6.gif" align="middle" width
     <td><img border="0" src="westminster-cc.gif" width="499" height="500"><p>&nbsp;</td>
   </tr>
 </table>
-<hr>
-
