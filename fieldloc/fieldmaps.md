@@ -1,5 +1,4 @@
-﻿
-<table border="0" align="center">
+﻿<table border="0" align="center">
   <tr align="center" valign="bottom">
     <td><b><a name="MESAVIEW">MESA VIEW</a></b></td>
   </tr>
