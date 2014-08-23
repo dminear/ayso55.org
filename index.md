@@ -35,6 +35,10 @@ Christine Appell, Stephanie Clobes, Debbie Doherty, Wally Dubno, Troy Johnson, A
 See you on the field!
 Butch
 
+### Region Handbook
+
+The [Region Handbook](/docs/AYSO R55 Region Handbook 2014.pdf) has all the info for our Region 55. Check it out for any questions you may have.
+
 ## 2013-2014 REGIONAL ASSESSMENT AWARD - PLATINUM!
 
 As Commissioner of Region 55, I am pleased to report your region has achieved the highest honor available in AYSO - PLATINUM!
