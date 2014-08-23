@@ -37,7 +37,7 @@ Butch
 
 ### Region Handbook
 
-The [Region Handbook](/docs/AYSO R55 Region Handbook 2014.pdf) has all the info for our Region 55. Check it out for any questions you may have.
+The [Region Handbook](/docs/AYSO_R55_Region_Handbook_2014.pdf) has all the info for our Region 55. Check it out for any questions you may have.
 
 ## 2013-2014 REGIONAL ASSESSMENT AWARD - PLATINUM!
 
