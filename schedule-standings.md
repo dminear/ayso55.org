@@ -1,5 +1,7 @@
-## Schedule/Standings
-### 2013 Fall Playoff Schedule
+## Schedule and Standings
+
+<!--
+### 2014 Fall Playoff Schedule
 
 U-10 - 11/9 & 11/16
 Top 8 teams, regardless of pool, will be seeded into playoffs based on their regular play points.
@@ -18,26 +20,27 @@ Teams will be seeded into playoffs based on their area play points.
 
 [U14 Playoffs](http://www.ayso55.org/docs/2013_U14_Playoffs_100913.pdf)
 
+-->
 
-### 2013 Fall Schedules and Standings
+### 2014 Fall Schedules and Standings
 
-#### U6 </b>(no standings so schedule only)
+#### U6 (no standings so schedule only)
 
-* [U6 Boys](http://www.ayso55.org/docs/Fall2013/2013-U6B-Schedule_Revised-090113.pdf)
+* [U6 Boys](http://www.ayso55.org/docs/Fall2014/2014_U06B_Schedule_082714.pdf)
 
-* [U6 Girls](http://www.ayso55.org/docs/Fall2013/2013-U6G-Schedule_082713.pdf)
+* [U6 Girls](http://www.ayso55.org/docs/Fall2014/2014_U06G_Schedule_082714.pdf)
 
 U8 (no standings so schedule only)
 
-* [U8 Boys](http://www.ayso55.org/docs/Fall2013/2013-U8B-Schedule_Revised-082913.pdf)
+* Still waiting for [U8 Boys](http://www.ayso55.org/docs/Fall2014)
 
-* [U8 Girls](http://www.ayso55.org/docs/Fall2013/2013-U8G-Schedule_Revised-090113.pdf)
+* Still waiting for [U8 Girls](http://www.ayso55.org/docs/Fall2014)
 
 U10, U12(external site also for standings)
 
-[U10 and U12 Schedules and Standings](http://www.schedulesetc.com/active/index.asp?id=reg55nhb13F)
+Still waiting for [U10 and U12 Schedules and Standings](http://www.schedulesetc.com/active/index.asp?id=reg55nhb14F)
 
 
 U14, U16, U19 (similar site that is inter-region play)
 
-[U14 and up Schedules and Standings](http://www.schedulesetc.com/active/index.asp?id=area11K13F)
+[U14 and up Schedules and Standings](http://www.schedulesetc.com/active/index.asp?id=area11K14F)
