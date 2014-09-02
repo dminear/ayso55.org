@@ -26,15 +26,15 @@ Teams will be seeded into playoffs based on their area play points.
 
 #### U6 (no standings so schedule only)
 
-* [U6 Boys](http://www.ayso55.org/docs/Fall2014/2014_U06B_Schedule_082714.pdf)
+* [U6 Boys](http://www.ayso55.org/docs/Fall2014/2014_U06B_Schedule_090114.pdf) ![updated](/docs/Fall2014/updated.png)
 
-* [U6 Girls](http://www.ayso55.org/docs/Fall2014/2014_U06G_Schedule_082714.pdf)
+* [U6 Girls](http://www.ayso55.org/docs/Fall2014/2014_U06G_Schedule_090114.pdf) ![updated](/docs/Fall2014/updated.png)
 
 U8 (no standings so schedule only)
 
-* Still waiting for [U8 Boys](http://www.ayso55.org/docs/Fall2014)
+* [U8 Boys](/docs/Fall2014/2014_U08B_Schedule_090114.pdf)
 
-* Still waiting for [U8 Girls](http://www.ayso55.org/docs/Fall2014)
+* [U8 Girls](/docs/Fall2014/2014_U08G_Schedule_090114.pdf)
 
 U10, U12(external site also for standings)
 
