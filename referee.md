@@ -129,7 +129,7 @@ Referee:
 
 [3 Easy Steps](http://www.ayso55.org/docs/3%20easy%20steps.pdf) 
 
-[Referee Scheduler How-To-Guide](http://www.ayso55.org/referee_docs/Arbiter.pdf)
+[Referee Scheduler How-To-Guide](/docs/Using-the-Region-55-Referee-Scheduler.pdf)
 
 ### Referee Quick Guides
 
