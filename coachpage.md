@@ -1,5 +1,15 @@
 ## Coaches Corner
 
+### Lineup Card
+
+You can grab the Region 55 [Lineup Card](http://www.ayso55.org/coach/Region_55_Lineup_Card.pdf)  for your games. You can enter your team information and print out copies.
+
+### Region Handbook
+
+You can find out all about Region 55 rules in the [Region Handbook for Fall 2014](/docs/AYSO_R55_Region_Handbook.pdf)
+
+### Coaching Requirements
+
 [Fall 2014 - address updated-](/docs/Fall2014/CoachingRequirements-2014Registration-revised2.pdf) coaching infomation. Who can coach and what do I need?
 
 ## Coach Training Schedules
@@ -50,13 +60,6 @@ Tryouts for the Fall 2013 All-Star teams are scheduled for Sunday, November 10 a
 [Fall 2013 Light Schedule effective 10/09/13](http://www.ayso55.org/docs/2013_Light_Schedule_100913.pdf)
 -->
 
-### Lineup Card
-
-You can grab the Region 55 [Lineup Card](http://www.ayso55.org/coach/Region_55_Lineup_Card.pdf)  for your games. You can enter your team information and print out copies.
-
-### Region Handbook
-
-You can find out all about Region 55 rules in the [Region Handbook for Fall 2013](/docs/Fall2013/AYSO-R55-Region-Handbook-2013-FINAL.pdf)
 
 ### Coach Clinic Handouts</h3>
 
