@@ -9,6 +9,17 @@
 
 The evaluation forms for [Intermediate Referee](/docs/Int_Ref_Mentoring.pdf) and [Regional Referee](/docs/Reg_Ref_Mentoring.pdf) are now available.
 
+### Laws of the Games and Related Resources
+
+Use the following links to be familiar with the laws and their application.
+
+* [Laws of the Game](/docs/2014-15-Laws-of-the-Game.pdf)
+* [Amendments to the Laws of the Game](/docs/2014-15-Amendments-to-the-Laws-of-the-Game.pdf)
+* [Advice to Referees](/docs/2013-14-Advice-to-Referees-022714.pdf)
+* [Offside Make Easy](/docs/Offside-Made-Easy-041513.pdf)
+* [Laws of the Game Made Easy](/docs/Laws-of-the-Game-Made-Easy-041513.pdf)
+* [Guide to Procedures](/docs/Guide-to-Procedures-041513.pdf)
+
 ### Fall 2014 
 
 [Referee Training](http://www.ayso55.org/docs/Fall%202014%20Dates.pdf)
