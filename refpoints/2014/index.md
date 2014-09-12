@@ -1,3 +1,4 @@
+### Referee Points for Fall 2014
 
-There are no referee points posted at this time. Please check back later!
+* [Week 1](/refpoints/2014/Referee_Points_Week_1_09-06-14.pdf)
 
