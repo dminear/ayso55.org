@@ -36,7 +36,7 @@ Teams will be seeded into playoffs based on their area play points.
 
 ### U10, U12(external site also for standings)
 
-Still waiting for [U10 and U12 Schedules and Standings](http://www.schedulesetc.com/active/index.asp?id=reg55nhb14F)
+[U10 and U12 Schedules and Standings](http://www.schedulesetc.com/active/index.asp?id=reg55nhb14F)
 
 
 ### U14, U16, U19 (similar site that is inter-region play)
