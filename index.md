@@ -1,6 +1,6 @@
 ### Picture Information and Schedules
 
-Pictures are Sunday, October 5 behind HB Library. Be on time -- you probably need 20 minutes to find and fill out the picture form that you forgot to bring!
+Pictures are Sunday, October 5 behind HB Library. Listed times are picture times. Arrive early, you probably need 20 minutes to find and fill out the picture form that you forgot to bring!
 
 [Fall 2014 Picture Schedule](/docs/Fall2014/2014-Picture-Schedule_091814.pdf)
 
