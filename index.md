@@ -1,3 +1,11 @@
+### Picture Information and Schedules
+
+Pictures are Sunday, October 5 behind HB Library. Be on time -- you probably need 20 minutes to find and fill out the picture form that you forgot to bring!
+
+[Fall 2014 Picture Schedule](/docs/Fall2014/2014-Picture-Schedule_091814.pdf)
+
+[Fall 2014 Picnic Volunteer Schedule](/docs/Fall2014/2014-Picnic-Volunteer-Schedule_091814.pdf)
+
 ## Fall 2014 Message
 
 Dear Region 55,
@@ -39,6 +47,7 @@ Butch
 
 The [Region Handbook](/docs/AYSO_R55_Region_Handbook_2014.pdf) has all the info for our Region 55. Check it out for any questions you may have.
 
+<!--
 ## 2013-2014 REGIONAL ASSESSMENT AWARD - PLATINUM!
 
 As Commissioner of Region 55, I am pleased to report your region has achieved the highest honor available in AYSO - PLATINUM!
@@ -54,6 +63,7 @@ Thank you!
 Butch
 
 ***
+-->
 
 ### New Regional Referee Administrator
 
@@ -74,6 +84,7 @@ Once again, congratulations and welcome Loren!
 Butch</br>
 Commissioner R55
 
+<!--
 ***
 
 ## Fall 2014 Registration Time is Here!
@@ -85,6 +96,7 @@ Go to the [registration](/registration.html) page.
 The Extra Program is for a more competitive level of soccer play. Please let 
 us know you are coming to try out for the Extra Program in advance by [signing up](https://docs.google.com/forms/d/17vJHGiV2UeGddu71rfpcP3nCwQH7C6V5Wyb27LYLVG4/viewform).
 Check out the [Extra](/extra) page for further information.
+-->
 
 ## Become a Volunteer
 ### Contact the [CVPA](mail://cvpa@ayso55.org) for volunteering.
