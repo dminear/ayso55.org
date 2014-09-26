@@ -30,11 +30,7 @@ See the [Training Dates](http://www.ayso55.org/docs/Fall%202014%20Dates.pdf) for
 
 [3 Easy Steps](http://www.ayso55.org/docs/3%20easy%20steps.pdf) explains how to become a referee.
 
-### FIFA Laws of the Game
-
-Questions? Consult the [FIFA Laws of the Game](http://www.ayso55.org/referee_docs/2012/FIFA%20LOTG%202012-2013.pdf) for the answer!
-
-<img alt="" height="85" src="http://www.ayso55.org/images/refanima.gif" style="float:left" width="88" />
+<img alt="" height="85" src="http://www.ayso55.org/images/refanima.gif" style="float:right" width="88" />
 
 ### Common Excuses for not being a Referee
 
