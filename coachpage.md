@@ -1,5 +1,9 @@
 ## Coaches Corner
 
+### College View Light Schedule
+
+The [Light Schedule](docs/Fall2014/2014_Light_Schedule_092614.pdf) is now available. It lists the times that teams have signed up to practice in the lights at College View.
+
 ### Lineup Card
 
 You can grab the Region 55 [Lineup Card](http://www.ayso55.org/coach/Region_55_Lineup_Card.pdf)  for your games. You can enter your team information and print out copies.
