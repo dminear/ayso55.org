@@ -1,9 +1,16 @@
-<table border="0" cellpadding="10" cellspacing="0" width="90%"><tbody><tr>
+<table border="0" cellpadding="10" cellspacing="0" width="90%">
+
+<tr>
 <td align="center" bgcolor="#CCE6FF" width="50">
 <p align="center">
 <span>
-<img border="0" height="34" src="http://www.ayso55.org/images/Q35.jpg" width="35" /></span></p></td>
+<img border="0" height="34" src="http://www.ayso55.org/images/Q35.jpg" width="35" />
+</span>
+</p>
+</td>
 <td bgcolor="#CCE6FF">
+
+
 <p><a name="fees">What do the registration fees cover?</a></p>
 </td>
 </tr>
@@ -159,6 +166,7 @@ boundaries of the game fields are as follows:
 <p><font><a href="fields">
 <span>Follow this link</span></a><span> to find the locations.</span></font></p></td>
 </tr>
+
 <tr>
 <td align="center" bgcolor="#CCE6FF" width="50">
 <span>
@@ -167,17 +175,32 @@ boundaries of the game fields are as follows:
 </td>
 <td bgcolor="#CCE6FF"><font><a name="refunds">Where is the check request form?</a></font></td>
 </tr>
+
 <tr>
 <td align="center" width="50">
 <img border="0" height="34" src="http://www.ayso55.org/images/A35.jpg" width="35" />
 </td>
 <td> 
 	The <a href="http://www.ayso55.org/forms/AYSO-Region-55-Check-Request-Form.pdf" rel="nofollow">check request form</a> is available online. 
-	</td></tr></tbody></table></div></td></tr></tbody></table>
-</div> 
-</div> 
-</div>
-</div> 
-</td> 
+</td>
 </tr>
-</table> 
+
+<tr>
+<td align="center" bgcolor="#CCE6FF" width="50">
+<span>
+<img border="0" height="34" src="http://www.ayso55.org/images/Q35.jpg" width="35" />
+</span>
+</td>
+<td bgcolor="#CCE6FF"><font><a name="refunds">Where is the claim form?</a></font></td>
+</tr>
+<tr>
+<td align="center" width="50">
+<img border="0" height="34" src="http://www.ayso55.org/images/A35.jpg" width="35" />
+</td>
+<td> 
+	The <a href="http://www.ayso55.org/docs/AYSO-Claim-form-english.pdf" rel="nofollow">claim form</a> is available online. 
+</td>
+</tr>
+
+
+</table>
