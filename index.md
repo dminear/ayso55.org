@@ -6,9 +6,9 @@ The [Light Schedule](docs/Fall2014/2014_Light_Schedule_092614.pdf) is now availa
 
 Pictures are Sunday, October 5 behind HB Library. Listed times are picture times. Arrive early, you probably need 20 minutes to find and fill out the picture form that you forgot to bring!
 
-[Fall 2014 Picture Schedule](/docs/Fall2014/2014-Picture-Schedule_091814.pdf)
+[Fall 2014 Picture Schedule](/docs/Fall2014/2014-Picture-Schedule-updated-20140930.pdf)
 
-[Fall 2014 Picnic Volunteer Schedule](/docs/Fall2014/2014-Picnic-Volunteer-Schedule_091814.pdf)
+[Fall 2014 Picnic Volunteer Schedule](/docs/Fall2014/2014-Picnic-Volunteer-Schedule-20140930.pdf)
 
 ## Fall 2014 Message
 

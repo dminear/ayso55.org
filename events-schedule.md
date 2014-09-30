@@ -2,9 +2,9 @@
 
 ### Picture Information and Schedules
 
-[Fall 2014 Picture Schedule](/docs/Fall2014/2014-Picture-Schedule_091814.pdf)
+[Fall 2014 Picture Schedule](/docs/Fall2014/2014-Picture-Schedule-updated-20140930.pdf)
 
-[Fall 2014 Picnic Volunteer Schedule](/docs/Fall2014/2014-Picnic-Volunteer-Schedule_091814.pdf)
+[Fall 2014 Picnic Volunteer Schedule](/docs/Fall2014/2014-Picnic-Volunteer-Schedule-20140930.pdf)
 
 ### The Region 55 calendar
 
