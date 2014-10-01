@@ -2,7 +2,7 @@
 
 ### Picture Information and Schedules
 
-[Fall 2014 Picture Schedule](/docs/Fall2014/2014-Picture-Schedule-updated-20140930.pdf)
+[Fall 2014 Picture Schedule](/docs/Fall2014/R55-Picture-Schedule_v3.pdf)
 
 [Fall 2014 Picnic Volunteer Schedule](/docs/Fall2014/2014-Picnic-Volunteer-Schedule-20140930.pdf)
 
