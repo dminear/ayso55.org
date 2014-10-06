@@ -1,6 +1,15 @@
+### Region 55 Supporting the Fundraiser for Abigail
+
+A booth was set up for [Abigaile](/docs/Fall2014/abigail-flyer.pdf) at picture day to help raise funds.
+
+![Abigail booth](/docs/Fall2014/abigail1.jpg)
+
+![Park Picture](/docs/Fall2014/abigail2.jpg)
+
+<!--
 ### College View Light Schedule
 
-The [Light Schedule](docs/Fall2014/2014_Light_Schedule_092614.pdf) is now available. It lists the times that teams have signed up to practice in the lights at College View.
+The [Light Schedule](docs/Fall2014/2014_Light_Schedule_100514.pdf) is now available. It lists the times that teams have signed up to practice in the lights at College View.
 
 ### Picture Information and Schedules
 
@@ -9,6 +18,7 @@ Pictures are Sunday, October 5 behind HB Library. Listed times are picture times
 [Fall 2014 Picture Schedule](/docs/Fall2014/R55-Picture-Schedule_v3.pdf)
 
 [Fall 2014 Picnic Volunteer Schedule](/docs/Fall2014/2014-Picnic-Volunteer-Schedule-20140930.pdf)
+-->
 
 ## Fall 2014 Message
 

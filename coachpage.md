@@ -2,7 +2,7 @@
 
 ### College View Light Schedule
 
-The [Light Schedule](docs/Fall2014/2014_Light_Schedule_092614.pdf) is now available. It lists the times that teams have signed up to practice in the lights at College View.
+The [Light Schedule](docs/Fall2014/2014_Light_Schedule_100514.pdf) is now available. It lists the times that teams have signed up to practice in the lights at College View.
 
 ### Lineup Card
 
