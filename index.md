@@ -1,3 +1,8 @@
+### Make-Up Picture Day
+
+Make-up picture day will be on Thursday November 6th, 2014 from 4-5pm at Lark View on the north end of the grassy area.
+Make up pictures are for individuals only; no team pictures will be done.
+
 ### Region 55 Supporting the Fundraiser for Abigail
 
 A booth was set up for [Abigaile](/docs/Fall2014/abigail-flyer.pdf) at picture day to help raise funds.
