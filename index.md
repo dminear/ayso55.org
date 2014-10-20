@@ -1,3 +1,10 @@
+### All Star Program
+
+[AYSO All-Stars](/docs/Fall2014/All-Star-Information-AYSO-Region-55.pdf) is
+a continuation of play for players who played in the 
+recreational division of AYSO in the Fall (Extra players are not eligible).
+Tryouts and coaching information is now available.
+
 ### Make-Up Picture Day
 
 Make-up picture day will be on Thursday November 6th, 2014 from 4-5pm at Lark View on the north end of the grassy area.
