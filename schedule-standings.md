@@ -10,9 +10,9 @@
 
 ### U6 (no standings so schedule only)
 
-* [U6 Boys](http://www.ayso55.org/docs/Fall2014/2014_U06B_Schedule_090114.pdf) ![updated](/docs/Fall2014/updated.png)
+* [U6 Boys](http://www.ayso55.org/docs/Fall2014/2014_U06B_Schedule_090114.pdf)
 
-* [U6 Girls](http://www.ayso55.org/docs/Fall2014/2014_U06G_Schedule_090114.pdf) ![updated](/docs/Fall2014/updated.png)
+* [U6 Girls](http://www.ayso55.org/docs/Fall2014/2014_U06G_Schedule_090114.pdf)
 
 ### U8 (no standings so schedule only)
 
