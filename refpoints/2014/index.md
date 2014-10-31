@@ -13,3 +13,6 @@
 * [Week 6](/refpoints/2014/Referee_Points_Week_6_10-11-14.pdf)
 
 * [Week 7](/refpoints/2014/Referee_Points_Week_7_10-18-14.pdf)
+
+* [Week 8](/refpoints/2014/Referee_Points_Week_8_10-25-14.pdf)
+
