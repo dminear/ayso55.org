@@ -16,3 +16,4 @@
 
 * [Week 8](/refpoints/2014/Referee_Points_Week_8_10-25-14.pdf)
 
+* [Week 9](/refpoints/2014/Referee_Points_Week_9_11-1-14.pdf)
