@@ -1,3 +1,8 @@
+### Spring Soccer
+
+Spring season is starting up!  Typically an interested coach puts together a team and everyone registers with a coach in mind. More information will be posted here when we have it.
+
+
 ### All Star Program
 
 [AYSO All-Stars](/docs/Fall2014/All-Star-Information-AYSO-Region-55.pdf) is
@@ -5,6 +10,7 @@ a continuation of play for players who played in the
 recreational division of AYSO in the Fall (Extra players are not eligible).
 Tryouts and coaching information is now available.
 
+<!--
 ### Make-Up Picture Day
 
 Make-up picture day will be on Thursday November 6th, 2014 at 4pm at Lark View on the north end of the grassy area.
@@ -18,7 +24,6 @@ A booth was set up for [Abigaile](/docs/Fall2014/abigail-flyer.pdf) at picture d
 
 ![Park Picture](/docs/Fall2014/abigail2.jpg)
 
-<!--
 ### College View Light Schedule
 
 The [Light Schedule](docs/Fall2014/2014_Light_Schedule_100514.pdf) is now available. It lists the times that teams have signed up to practice in the lights at College View.
@@ -30,7 +35,7 @@ Pictures are Sunday, October 5 behind HB Library. Listed times are picture times
 [Fall 2014 Picture Schedule](/docs/Fall2014/R55-Picture-Schedule_v3.pdf)
 
 [Fall 2014 Picnic Volunteer Schedule](/docs/Fall2014/2014-Picnic-Volunteer-Schedule-20140930.pdf)
--->
+
 
 ## Fall 2014 Message
 
@@ -68,6 +73,8 @@ Christine Appell, Stephanie Clobes, Debbie Doherty, Wally Dubno, Troy Johnson, A
 
 See you on the field!
 Butch
+
+-->
 
 ### Region Handbook
 
