@@ -1,7 +1,8 @@
-### Spring Soccer
+### Spring 2015 Soccer Registration
 
-Spring season is starting up!  Typically an interested coach puts together a team and everyone registers with a coach in mind. More information will be posted here when we have it.
-
+[Spring Soccer Information](/docs/Spring2015/Spring-2015-Soccer-Registration.pdf) is now available. Spring is Coach Select (coaches put together their teams). If you are interested in
+coaching (forming a team), please contact our Spring Director (see [Division Coordinators](division-coordinators.html) page). All coaches are subject
+to approval and not guaranteed a team.
 
 ### All Star Program
 

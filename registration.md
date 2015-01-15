@@ -1,5 +1,12 @@
 ## Registration
 
+### Spring 2015 Soccer Registration
+
+[Spring Soccer Information](/docs/Spring2015/Spring-2015-Soccer-Registration.pdf) is now available. Spring is Coach Select (coaches put together their teams). If you are interested in
+coaching (forming a team), please contact our Spring Director (see [Division Coordinators](division-coordinators.html) page). All coaches are subject
+to approval and not guaranteed a team.
+
+<!--
 ### Late Registration
 
 Mail two signed copies of the registration form (fill out at www.eayso.org) and the late registration fee of $160.00 to:
@@ -26,6 +33,8 @@ If returning volunteer, then follow the [returning volunteers](http://www.ayso55
 [eAYSO Preregistration Information](http://www.ayso55.org/docs/Fall2014/eAYSO%20Pre-Registration%20info.pdf)
 
 [More Fall 2014 registration info](http://www.ayso55.org/docs/Fall2014/Fall%20Registration%202014%20info%201.pdf) which has some busted links.
+
+-->
 
 ### Having Technical Problems with eAYSO
 
