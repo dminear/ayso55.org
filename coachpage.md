@@ -1,8 +1,13 @@
 ## Coaches Corner
 
+### Supercamp Flyer 2015
+Check out the [Supercamp Flyer](/docs/Spring2015/supercamp_flyer2015.pdf) for information about the Supercamp happening Feb 27 - March 1.
+
+<!--
 ### College View Light Schedule
 
 The [Light Schedule](docs/Fall2014/2014_Light_Schedule_100514.pdf) is now available. It lists the times that teams have signed up to practice in the lights at College View.
+-->
 
 ### Lineup Card
 
