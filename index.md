@@ -4,6 +4,17 @@
 coaching (forming a team), please contact our Spring Director (see [Division Coordinators](division-coordinators.html) page). All coaches are subject
 to approval and not guaranteed a team.
 
+### Fall 2015 Registration Dates
+
+The registration dates for Fall 2015 will be:
+
+* Tuesday, March 31 6pm - 9pm
+* Sunday, April 12 12pm - 3:30pm
+* Wednesday, May 6 6pm - 9pm
+
+Location and more information will be coming soon.
+
+<!--
 ### All Star Program
 
 [AYSO All-Stars](/docs/Fall2014/All-Star-Information-AYSO-Region-55.pdf) is
@@ -11,7 +22,6 @@ a continuation of play for players who played in the
 recreational division of AYSO in the Fall (Extra players are not eligible).
 Tryouts and coaching information is now available.
 
-<!--
 ### Make-Up Picture Day
 
 Make-up picture day will be on Thursday November 6th, 2014 at 4pm at Lark View on the north end of the grassy area.
