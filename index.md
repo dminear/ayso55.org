@@ -12,7 +12,7 @@ Location and more information will be coming soon.
 
 ### 2015 British Soccer Camps
 
-![BSC Logo](/images/bsc-logo.png)Region 55 will host 3 soccer camps this summer. These are popular so instead of two we added a third. The dates are:
+![BSC Logo](/images/bsc-logo-100x100.png)Region 55 will host 3 soccer camps this summer. These are popular so instead of two we added a third. The dates are:
 
 * [Week 1 - June 22 - 26](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&imp=f&iid=63708&&returncom=productlist)
 
