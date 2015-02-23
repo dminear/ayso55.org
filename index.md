@@ -1,8 +1,3 @@
-### Spring 2015 Soccer Registration
-
-[Spring Soccer Information](/docs/Spring2015/Spring-2015-Soccer-Registration.pdf) is now available. Spring is Coach Select (coaches put together their teams). If you are interested in
-coaching (forming a team), please contact our Spring Director (see [Division Coordinators](division-coordinators.html) page). All coaches are subject
-to approval and not guaranteed a team.
 
 ### Fall 2015 Registration Dates
 
@@ -14,7 +9,27 @@ The registration dates for Fall 2015 will be:
 
 Location and more information will be coming soon.
 
+
+### 2015 British Soccer Camps
+
+Region 55 will host 3 soccer camps this summer. These are popular so instead of two we added a third. The dates are:
+
+* [Week 1 - June 22 - 26](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&imp=f&iid=63708&&returncom=productlist)
+
+
+* [Week 2 - July 13 - 17](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&imp=f&iid=59356&&returncom=productlist)
+
+
+* [Week 3 - August 3 - 7](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&imp=f&iid=59364&&returncom=productlist)
+
+
 <!--
+### Spring 2015 Soccer Registration
+
+[Spring Soccer Information](/docs/Spring2015/Spring-2015-Soccer-Registration.pdf) is now available. Spring is Coach Select (coaches put together their teams). If you are interested in
+coaching (forming a team), please contact our Spring Director (see [Division Coordinators](division-coordinators.html) page). All coaches are subject
+to approval and not guaranteed a team.
+
 ### All Star Program
 
 [AYSO All-Stars](/docs/Fall2014/All-Star-Information-AYSO-Region-55.pdf) is

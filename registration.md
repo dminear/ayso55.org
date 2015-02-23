@@ -40,6 +40,16 @@ If returning volunteer, then follow the [returning volunteers](http://www.ayso55
 
 If you are having problems, please feel free to contact the eAYSO help center by sending an email to eaysosupport@ayso.org or by calling 866-588-2976.
 
+Updated eAYSO Call Center Hours
+ 
+Starting Saturday, Mar. 7, the eAYSO Call Center will start its 2015 registration extended hour schedule; the extended coverage will be available until Aug. 29 (unless otherwise noted).
+
+The hours of operation will be (all times are Pacific time):
+* Monday - Friday: 8:00 a.m. to 5:00 p.m.
+* Saturday: 6:00 a.m. to 3:00 p.m.
+* Sunday: 8:00 a.m. to 12:00 p.m. (March 8-Aug. 2)
+
+
 ### Refunds:
 
 Email [refunds@ayso55.org](mailto:refunds@ayso55.org) or let the registrar know of your refund request. You can also call 714-585-3161 to get more information.
