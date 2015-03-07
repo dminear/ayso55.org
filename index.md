@@ -1,5 +1,5 @@
 
-### Fall 2015 Registration Dates
+### Fall 2015 Registration Dates (UPDATED!)
 
 The registration dates for Fall 2015 will be:
 
@@ -7,7 +7,7 @@ The registration dates for Fall 2015 will be:
 * Sunday, April 12 12pm - 3:30pm
 * Wednesday, May 6 6pm - 9pm
 
-Location and more information will be coming soon.
+Check out the [Registration](/registration.html) page for all the details!
 
 
 ### 2015 British Soccer Camps

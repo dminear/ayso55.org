@@ -1,12 +1,31 @@
 ## Registration
 
+### Online signup help for new and returning volunteers
+
+We are all volunteers, and we can't run the program without your help. Region 55 is a bunch of dedicated individuals that like helping and enjoy seeing the smiles on the kids faces.
+
+If a new volunteer (Coach, Ref, Team Parent, etc.), then follow the [new volunteers](http://www.ayso55.org/docs/Fall2015/New%20volunteers.pdf) handout.
+
+If returning volunteer, then follow the [returning volunteers](http://www.ayso55.org/docs/Fall2015/Returning%20volunteers.pdf) handout.
+
+### Player Registration
+
+[Registration flyer](http://www.ayso55.org/docs/Fall2015/2015%20Registration%20Flyer.pdf)
+
+[AYSO 2015 Season age chart](http://www.ayso55.org/docs/Fall2015/Age%20Guide%20for%202015-2016%20Season.pdf)
+
+[More Fall 2015 registration info](http://www.ayso55.org/docs/Fall2015/Fall%20Registration%202015%20info.pdf) has further details.
+
+There is some help from the 2014 Fall season dealing with [eAYSO Preregistration Information](http://www.ayso55.org/docs/Fall2014/eAYSO%20Pre-Registration%20info.pdf) that you might find useful.
+
+<!--
 ### Spring 2015 Soccer Registration
 
 [Spring Soccer Information](/docs/Spring2015/Spring-2015-Soccer-Registration.pdf) is now available. Spring is Coach Select (coaches put together their teams). If you are interested in
 coaching (forming a team), please contact our Spring Director (see [Division Coordinators](division-coordinators.html) page). All coaches are subject
 to approval and not guaranteed a team.
 
-<!--
+
 ### Late Registration
 
 Mail two signed copies of the registration form (fill out at www.eayso.org) and the late registration fee of $160.00 to:
@@ -20,19 +39,6 @@ If there is a spot available on a team, your player will be placed.  If not, you
 If you have any questions, please email registrar@ayso55.org or call 714/488-5063.
 
 
-### Online signup help for new and returning volunteers
-
-If a new volunteer, then follow the [new volunteers](http://www.ayso55.org/docs/Fall2014/New%20volunteers.pdf) handout.
-
-If returning volunteer, then follow the [returning volunteers](http://www.ayso55.org/docs/Fall2014/Returning%20volunteers.pdf) handout.
-
-[Registration flyer](http://www.ayso55.org/docs/Fall2014/2014%20Registration%20Flyer.pdf)
-
-[AYSO 2014 Season age chart](http://www.ayso55.org/docs/Fall2014/Age%20Guide%20for%202014.pdf)
-
-[eAYSO Preregistration Information](http://www.ayso55.org/docs/Fall2014/eAYSO%20Pre-Registration%20info.pdf)
-
-[More Fall 2014 registration info](http://www.ayso55.org/docs/Fall2014/Fall%20Registration%202014%20info%201.pdf) which has some busted links.
 
 -->
 
