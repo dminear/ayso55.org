@@ -4,13 +4,13 @@ Region 55 would like to congratulate its 3 teams that are going to the Western S
 
 U11 Extra Boys Team coached by Jason Kakimoto and Steve Mangold
 U11 Extra Girls Team coached by Dave Wiley and Derick Roselli
-
+<!---
 ![extra](/docs/Fall2015/Region-55-extra.jpg)
-
+-->
 U10 Girls League - Royal Pains coached by Paul Kirby, Jim Rice and Jeff Biggins.
-
+<!--
 ![extra](/docs/Fall2015/Region-55-U10-Royal-Pains.jpg)
-
+-->
 ### Fall 2015 Registration Dates (UPDATED!)
 
 The registration dates for Fall 2015 will be:
