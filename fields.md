@@ -83,13 +83,23 @@ No practice allowed on Tues or Thurs.</span></b></p></td>
 <img border="0" height="50" src="http://www.ayso55.org/images/button_soccer_field.gif" width="100" /></a></b></td>
 <td style="text-align:center;width:109px;height:54px"><b>Practice</b></td>
 <td style="text-align:center;width:103px;height:54px"><b><a href="http://www.ayso55.org/fieldloc/fieldmaps.html#MESAVIEW" rel="nofollow">Mesa View</a></b></td>
-<td style="text-align:center;width:278px;height:54px"><b>Mon-Fri (4pm - dusk), Sat (8am - 5pm), Sun (10am - 5pm)</b></td></tr></tbody></table></div></td></tr></tbody></table>
+<td style="text-align:center;width:278px;height:54px"><b>Mon-Fri (4pm - dusk), Sat (8am - 5pm), Sun (10am - 5pm)</b></td></tr></tbody></table>
+
+
 
 [Lark View](https://goo.gl/maps/BwgsL)
+
 [Westmont Elementary School](https://goo.gl/maps/zkzP7)
+
 [Springview Middle School](https://goo.gl/maps/ROOXP)
-[College View Elementary School]{https://goo.gl/maps/y5u6t)
+
+[College View Elementary School](https://goo.gl/maps/y5u6t)
+
 [Glen View Park](https://goo.gl/maps/OSNZV)
+
 [Sun View Elementary School](https://goo.gl/maps/rH3zf)
+
 [Golden View Elementary School](https://goo.gl/maps/pWWNM)
+
 [Mesa View Middle School](https://goo.gl/maps/a95Dj)
+
