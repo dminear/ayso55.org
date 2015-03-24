@@ -1,3 +1,17 @@
+### Fall 2015 Registration Dates
+
+The registration dates for Fall 2015 will be:
+
+* Tuesday, March 31 6pm - 9pm
+* Sunday, April 12 12pm - 3:30pm
+* Wednesday, May 6 6pm - 9pm
+
+Check out the [Registration](/registration.html) page for all the details!
+
+### Extra Program Information
+
+See the [Extra](/extra/) page for detailed information.
+
 ### Western State Championships
 
 Region 55 would like to congratulate its 3 teams that are going to the Western State Championships, this Saturday, March 21 and March 22 at Lake Forest, CA.  Feel free to come out and support our Region.
@@ -10,17 +24,6 @@ U11 Extra Girls Team coached by Dave Wiley and Derick Roselli
 U10 Girls League - Royal Pains coached by Paul Kirby, Jim Rice and Jeff Biggins.
 
 ![extra](/docs/Fall2015/Region-55-U10-Royal-Pains.jpg)
-
-### Fall 2015 Registration Dates (UPDATED!)
-
-The registration dates for Fall 2015 will be:
-
-* Tuesday, March 31 6pm - 9pm
-* Sunday, April 12 12pm - 3:30pm
-* Wednesday, May 6 6pm - 9pm
-
-Check out the [Registration](/registration.html) page for all the details!
-
 
 ### 2015 British Soccer Camps
 
