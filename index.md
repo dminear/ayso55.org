@@ -1,6 +1,6 @@
 ### Fall 2015 Registration Dates
 
-<strong>All registration is done online at [eayso](http://www.eayso.org).</strong> Bring the printouts fees to the registration. The dates for Fall 2015 will be:
+<strong>All registration is done online at [eayso](http://www.eayso.org).</strong> Bring the printouts and fees to the registration. The dates for Fall 2015 will be:
 
 * Tuesday, March 31 6pm - 9pm
 * Sunday, April 12 12pm - 3:30pm
