@@ -138,7 +138,7 @@ Thank you!
 Butch
 
 ***
--->
+
 
 ### New Regional Referee Administrator
 
@@ -158,19 +158,6 @@ Once again, congratulations and welcome Loren!
 
 Butch</br>
 Commissioner R55
-
-<!--
-***
-
-## Fall 2014 Registration Time is Here!
-Go to the [registration](/registration.html) page.
-
-***
-
-## Extra Program
-The Extra Program is for a more competitive level of soccer play. Please let 
-us know you are coming to try out for the Extra Program in advance by [signing up](https://docs.google.com/forms/d/17vJHGiV2UeGddu71rfpcP3nCwQH7C6V5Wyb27LYLVG4/viewform).
-Check out the [Extra](/extra) page for further information.
 -->
 
 ## Become a Volunteer
