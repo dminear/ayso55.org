@@ -1,5 +1,7 @@
 ## Registration
 
+<a href="http://www.eayso.org/" target="_blank"><img src="http://www.ayso.org/Assets/For+Volunteers/Resources/Marketing+Toolkit/eayso_signup_btn.png" border="0"></a>
+
 ### Online signup help for new and returning volunteers
 
 We are all volunteers, and we can't run the program without your help. Region 55 is a bunch of dedicated individuals that like helping and enjoy seeing the smiles on the kids faces.
