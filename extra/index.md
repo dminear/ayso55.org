@@ -1,4 +1,4 @@
-See a [PDF](/extra/EXTRA-2015.pdf) of this for easy printing.
+See a [PDF](/extra/EXTRA-2015-revised.pdf) of this for easy printing.
 
 ### AYSO Region 55 Fall 2015 EXTRA Program
 
@@ -25,21 +25,21 @@ Tryouts for the 2015 EXTRA teams will be held on the following dates at the loca
 
 #### Sunday, April 19 @ Lark View (Ocean View District Offices - 17200 Pinehurst Ln.)
 
-* U-11 Girls 9:30 am - 11:00 am
-* U-12 Girls 11:00 am - 12:30 pm
-* U-11 Boys 12:30 pm - 2:00 pm
-* U-12 Boys 2:30 pm - 4:00 pm
-* U-13 Girls 4:00 pm - 5:30 pm
-* U-16 Girls 5:30 pm - 7:00 pm
+* U-11 Girls	9:30 am - 11:00 am 
+* U-12 Girls 11:00 am - 12:30 pm 
+* U-11 Boys	12:30 pm - 2:00 pm
+* U-16 Girls 2:30 pm - 4:00 pm 
+* U-13 Girls 4:00 pm - 5:30 pm 
+* U-12 Boys 5:30 pm - 7:00 pm
 
 #### Sunday, May 3 @ Lark View (Ocean View District Offices - 17200 Pinehurst Ln.)
 
-* U-11 Girls 9:30 am - 11:00 am
-* U-12 Girls 11:00 am - 12:30 pm
-* U-11 Boys 12:30 pm - 2:00 pm
-* U-12 Boys 2:30 pm - 4:00 pm
-* U-13 Girls 4:00 pm - 5:30 pm
-* U-16 Girls 5:30 pm - 7:00 pm
+* U-11 Girls	9:30 am - 11:00 am 
+* U-12 Girls 11:00 am - 12:30 pm 
+* U-11 Boys	12:30 pm - 2:00 pm
+* U-16 Girls 2:30 pm - 4:00 pm 
+* U-13 Girls 4:00 pm - 5:30 pm 
+* U-12 Boys 5:30 pm - 7:00 pm
 
 #### Age Guide:
 
