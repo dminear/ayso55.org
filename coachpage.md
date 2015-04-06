@@ -22,6 +22,7 @@ You can grab the Region 55 [Lineup Card](http://www.ayso55.org/coach/Region_55_
 
 You can find out all about Region 55 rules in the [Region Handbook for Fall 2014](/docs/AYSO_R55_Region_Handbook_2014.pdf)
 
+<!--
 ### Coaching Requirements
 
 [Fall 2014 - address updated-](/docs/Fall2014/CoachingRequirements-2014Registration-revised2.pdf) coaching infomation. Who can coach and what do I need?
@@ -55,7 +56,7 @@ TBD - [Region 143](http://www.ayso143.org)
 August 2nd-3rd - Area K Supercamp, Fountain Valley High School, CA. U10, U12, Intermediate,
 Advanced Coach Training only (http://www.ayso11k.org/supercamp/supercamp.shtml) Times to
 be determined.
-
+-->
 
 <!--
 ### All-Star Program (U-10 to U-14)
