@@ -1,4 +1,4 @@
-﻿@import url("layout.css");
+@import url("layout.css");
 body {
 	font-family: "Georgia", "Times New Roman", Times, serif;
 	font-size: 0.8em;

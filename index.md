@@ -8,6 +8,10 @@
 
 Check out the [Registration](/registration.html) page for all the details!
 
+### Sweatshirt Order Form
+
+New for this fall, you can download the [sweatshirt order form](/docs/Fall2015/Sweatshirt_order_form.pdf) and purchase a Region 55 sweatshirt. There are both pull over and zipper versions -- see the order form for more information. Deadline is July 18 for August delivery.
+
 ### Extra Program Information
 
 See the [Extra](/extra/) page for detailed information.
