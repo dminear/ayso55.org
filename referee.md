@@ -1,5 +1,7 @@
 ### Referee Points
 
+<strong>All registration is done online at [eayso](http://www.eayso.org)! You need to register there before you attend any classes!</strong> 
+
 <a href="https://twitter.com/AYSO55Referee" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @AYSO55Referee</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
