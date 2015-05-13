@@ -1,12 +1,104 @@
 ### Fall 2015 Registration Dates
 
-<strong>All registration is done online at [eayso](http://www.eayso.org).</strong> Bring the printouts and fees to the registration. The dates for Fall 2015 will be:
+<strong>All registration is done online at [eayso](http://www.eayso.org).</strong> The in person deadlines have passed, so the only option is to mail in your registration, and players will be put on a waiting list. See the [Registration](/registration.html) page for all the details.
 
-* Tuesday, March 31 6pm - 9pm
-* Sunday, April 12 12pm - 3:30pm
-* Wednesday, May 6 6pm - 9pm
+### Extra Teams for Fall 2015
 
-Check out the [Registration](/registration.html) page for all the details!
+<strong>U11B</strong>
+
+Unfortunately, Region 55 will not be moving forward with a U11B Extra team for the Fall Season.
+
+
+<strong>U11G - Head Coach Paul Kirby</strong>
+
+A Allen
+A Biggins
+K Ellis
+S Goering
+R Hannaman
+H Kalkus
+A Kirby
+C Landis
+A Lindquist
+E Lindquist
+S Low
+S Macklin
+L Ramirez
+E Roberts
+
+
+
+<strong>U12B - Head Coach Jason Kakimoto</strong>
+
+A Abdel Mooti
+A Chikazawa
+E Choi
+C Dochnahl
+R Fisher
+C Hart
+M Hernandez
+G James
+T Kakimoto
+B Kirkman
+T Mangold
+D Tonel
+Z Vuncanon
+K Zuanich
+
+
+<strong>U12G - Head Coach M. David Wiley</strong>
+
+S Capalbo
+J Church
+Z Florence
+M Hoglund
+R Kennedy
+A Low
+K Meehan
+H Melkerson
+S Murrey
+L Payson
+L Perkins
+B Pilkington
+M Torres
+A Wiley
+
+
+<strong>U13G - Head Coach Joe Volz</strong>
+
+S Boucher
+M Emi
+C Foster
+L James
+E Kirby
+T Leipper
+S Lester
+R Mangold
+N Okimura
+D Risse
+K Rochow
+J Shih
+N Valenti
+A Vanhorn
+M Volz
+
+
+<strong>U15/16G - Head Coach Nick Davison</strong>
+
+E Armstrong
+C Cordell
+E Davison
+J Foster
+M Hendershot
+K Kirkman
+G Mangold
+E McAndrews
+S Milo
+D Morales
+H Reynolds
+H Sjogren
+T Voegelie
+
 
 ### Sun and Surf Tournament
 
@@ -20,6 +112,7 @@ New for this fall, you can download the [sweatshirt order form](/docs/Fall2015/S
 
 See the [Extra](/extra/) page for detailed information.
 
+<!--
 ### Western State Championships
 
 Region 55 would like to congratulate its 3 teams that are going to the Western State Championships, this Saturday, March 21 and March 22 at Lake Forest, CA.  Feel free to come out and support our Region.
@@ -32,6 +125,7 @@ U11 Extra Girls Team coached by Dave Wiley and Derick Roselli
 U10 Girls League - Royal Pains coached by Paul Kirby, Jim Rice and Jeff Biggins.
 
 ![extra](/docs/Fall2015/Region-55-U10-Royal-Pains.jpg)
+-->
 
 ### 2015 British Soccer Camps
 
