@@ -1,3 +1,6 @@
+### EXTRA Team Camp
+
+[Register for the Extra Team Camp.](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&imp=f&iid=75858&&returncom=productlist)  This particular session is for our Extra teams only.
 
 ### AYSO Region 55 Fall 2015 EXTRA Program
 
