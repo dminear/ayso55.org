@@ -166,7 +166,7 @@ Commissioner R55
 -->
 
 ## Become a Volunteer
-### Contact the [CVPA](mail://cvpa@ayso55.org) for volunteering.
+### Contact the [CVPA](mailto://cvpa@ayso55.org) for volunteering.
 The Child and Vonunteer Protection Advocate CVPA can help! We need coaches, 
 referees, and lots of other help to keep Region 55 strong.
 

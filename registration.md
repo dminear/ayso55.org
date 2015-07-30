@@ -46,16 +46,13 @@ If you have any questions, please email registrar@ayso55.org or call 714/488-506
 
 ### Having Technical Problems with eAYSO
 
-If you are having problems, please feel free to contact the eAYSO help center by sending an email to eaysosupport@ayso.org or by calling 866-588-2976.
+If you are have difficulty with www.eAYSO.org please contact the eAYSO help desk. They can help you if you've lost your username and/or password and are unable to login, or if you are having other technical difficulties.
 
-Updated eAYSO Call Center Hours
- 
-Starting Saturday, Mar. 7, the eAYSO Call Center will start its 2015 registration extended hour schedule; the extended coverage will be available until Aug. 29 (unless otherwise noted).
-
-The hours of operation will be (all times are Pacific time):
-* Monday - Friday: 8:00 a.m. to 5:00 p.m.
-* Saturday: 6:00 a.m. to 3:00 p.m.
-* Sunday: 8:00 a.m. to 12:00 p.m. (March 8-Aug. 2)
+<pre>
+eAYSO Help Desk
+(866) 588-2976
+Mon-Sat, 8am-5pm PST
+</pre>
 
 
 ### Refunds:
