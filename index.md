@@ -2,11 +2,6 @@
 
 <strong>All registration is done online at [eayso](http://www.eayso.org).</strong> The in person deadlines have passed, so the only option is to mail in your registration, and players will be put on a waiting list. See the [Registration](/registration.html) page for all the details.
 
-
-### Sun and Surf Tournament
-
-More information about the upcoming [Area K Sun and Surf Tournament](http://www.ayso11k.org/cgi-bin/ol_print_start_page.pl?tourny_name=sun_surf) is available.
-
 ### Sweatshirt Order Form
 
 New for this fall, you can download the [sweatshirt order form](/docs/Fall2015/Sweatshirt_order_form.pdf) and purchase a Region 55 sweatshirt. There are both pull over and zipper versions -- see the order form for more information. Deadline is July 18 for August delivery.
