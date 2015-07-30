@@ -20,7 +20,7 @@ You can grab the Region 55 [Lineup Card](http://www.ayso55.org/coach/Region_55_
 
 ### Region Handbook
 
-You can find out all about Region 55 rules in the [Region Handbook for Fall 2014](/docs/AYSO_R55_Region_Handbook_2014.pdf)
+You can find out all about Region 55 rules in the [Region Handbook for Fall 2015](/docs/Fall2015/AYSOR55RegionHandbook2015.pdf)
 
 <!--
 ### Coaching Requirements
