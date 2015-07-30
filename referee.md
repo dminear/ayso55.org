@@ -1,11 +1,22 @@
-### Referee Points
+### Training
 
 <strong>All registration is done online at [eayso](http://www.eayso.org)! You need to register there before you attend any classes!</strong> 
+
+### Fall 2015
+
+[Referee Training](http://www.ayso55.org/docs/Fall2015/Fall%202015%20Ref%20Training.pdf)
+
+Referee Training is done in stages built on each other. First is a U8 Certification, and allows you to referee U6 and U8. After taking the U8 class, you can take the Regional Referee class, which allows you to referee U6  - U12.  Further stages are Intermediate Referee, Advanced Referee, and National Referee.
+
+See the [Training Dates](http://www.ayso55.org/docs/Fall2015/Fall%202015%20Dates.pdf) for class dates and times.
+
 
 <a href="https://twitter.com/AYSO55Referee" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @AYSO55Referee</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-[Current ref point listings](http://www.ayso55.org/refpoints/2014) have the point breakdown and current status.
+### Referee Points
+
+[Current ref point listings](http://www.ayso55.org/refpoints/2015) have the point breakdown and current status.
 
 ### Referee Mentoring
 
@@ -22,15 +33,7 @@ Use the following links to be familiar with the laws and their application.
 * [Laws of the Game Made Easy](/docs/Laws-of-the-Game-Made-Easy-041513.pdf)
 * [Guide to Procedures](/docs/Guide-to-Procedures-041513.pdf)
 
-### Fall 2014 
 
-[Referee Training](http://www.ayso55.org/docs/Fall%202014%20Dates.pdf)
-
-Referee Training is done in stages built on each other. First is a U8 Certification, and allows you to referee U6 and U8. After taking the U8 class, you can take the Regional Referee class, which allows you to referee U6  - U12.  Further stages are Intermediate Referee, Advanced Referee, and National Referee.
-
-See the [Training Dates](http://www.ayso55.org/docs/Fall%202014%20Dates.pdf) for class dates and times.
-
-[3 Easy Steps](http://www.ayso55.org/docs/3%20easy%20steps.pdf) explains how to become a referee.
 
 <img alt="" height="85" src="http://www.ayso55.org/images/refanima.gif" style="float:right" width="88" />
 
@@ -138,12 +141,6 @@ been reffing for 1 or 2 years, or for any Regional level referee who
 wants formalized field training that is unavailable in the Regional 
 referee class.
 
-
-Referee: 
-
-[3 Easy Steps](http://www.ayso55.org/docs/3%20easy%20steps.pdf) 
-
-[Referee Scheduler How-To-Guide](/docs/Using-the-Region-55-Referee-Scheduler.pdf)
 
 ### Referee Quick Guides
 
