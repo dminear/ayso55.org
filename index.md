@@ -4,11 +4,21 @@
 
 ### Sweatshirt Order Form
 
-New for this fall, you can download the [sweatshirt order form](/docs/Fall2015/Sweatshirt_order_form.pdf) and purchase a Region 55 sweatshirt. There are both pull over and zipper versions -- see the order form for more information. Deadline is July 18 for August delivery.
+New for this fall, you can download the [sweatshirt order form](/docs/Fall2015/Sweatshirt_order_form.pdf) and purchase a Region 55 sweatshirt. There are both pull over and zipper versions -- see the order form for more information.
 
 ### Extra Program Information
 
 See the [Extra](/extra/) page for detailed information.
+
+
+### Team Parent Information
+
+Team Parent Meeting will be 8/22, Saturday  1-2pm at FUZION, 7227 Edinger Ave. At this meeting you will receive your handbook and pizza coupons!  We will also be raffling off some free team banners.  
+
+### Referee Training
+  **NEW** online offered this year.  See Referee tab for more details.  We will also be offering traditional classroom training.
+
+Referee On-Line Training:  this is a two-part course requirement. Part 1 is taking the on-line referee training course at www.aysotraining.org. Select the Referee On-Line Training Course to begin. You will need an AYSO ID Number (see above for online registration -- you must have an ID to map the training to). This will take a new referee approximately 2 to 3 hours to complete. Part 2 is attending the companion course on August 29th. Enroll for this class at www.eayso.org and select the Basic Referee On-Line Companion Course, Roster 201502636. Both parts are required to certify you as a Referee. 
 
 <!--
 ### Western State Championships
@@ -25,6 +35,7 @@ U10 Girls League - Royal Pains coached by Paul Kirby, Jim Rice and Jeff Biggins.
 ![extra](/docs/Fall2015/Region-55-U10-Royal-Pains.jpg)
 -->
 
+<!--
 ### 2015 British Soccer Camps
 
 ![BSC Logo](/images/BSC2015-WebBanners-125x125.jpg)Region 55 will host 3 soccer camps this summer. These are popular so instead of two we added a third. The dates are:
@@ -38,6 +49,7 @@ U10 Girls League - Royal Pains coached by Paul Kirby, Jim Rice and Jeff Biggins.
 * [Week 3 - August 3 - 7](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&imp=f&iid=59364&&returncom=productlist)
 
 ![British Soccer Camps](/images/BSC2015-WebBanners-720x80.jpg)
+-->
 
 <!--
 ### Spring 2015 Soccer Registration
@@ -162,7 +174,7 @@ Commissioner R55
 
 ## Become a Volunteer
 ### Contact the [CVPA](mailto://cvpa@ayso55.org) for volunteering.
-The Child and Vonunteer Protection Advocate CVPA can help! We need coaches, 
+The Child and Volunteer Protection Advocate CVPA can help! We need coaches, 
 referees, and lots of other help to keep Region 55 strong.
 
 ## AYSO VIP Program
