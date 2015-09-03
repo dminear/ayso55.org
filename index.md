@@ -11,29 +11,11 @@ New for this fall, you can download the [sweatshirt order form](/docs/Fall2015/S
 See the [Extra](/extra/) page for detailed information.
 
 
-### Team Parent Information
-
-Team Parent Meeting will be 8/22, Saturday  1-2pm at FUZION, 7227 Edinger Ave. At this meeting you will receive your handbook and pizza coupons!  We will also be raffling off some free team banners.  
-
 ### Referee Training
   **NEW** online offered this year.  See Referee tab for more details.  We will also be offering traditional classroom training.
 
 Referee On-Line Training:  this is a two-part course requirement. Part 1 is taking the on-line referee training course at www.aysotraining.org. Select the Referee On-Line Training Course to begin. You will need an AYSO ID Number (see above for online registration -- you must have an ID to map the training to). This will take a new referee approximately 2 to 3 hours to complete. Part 2 is attending the companion course on August 29th. Enroll for this class at www.eayso.org and select the Basic Referee On-Line Companion Course, Roster 201502636. Both parts are required to certify you as a Referee. 
 
-<!--
-### Western State Championships
-
-Region 55 would like to congratulate its 3 teams that are going to the Western State Championships, this Saturday, March 21 and March 22 at Lake Forest, CA.  Feel free to come out and support our Region.
-
-U11 Extra Boys Team coached by Jason Kakimoto and Steve Mangold
-U11 Extra Girls Team coached by Dave Wiley and Derick Roselli
-
-![extra](/docs/Fall2015/Region-55-extra.jpg)
-
-U10 Girls League - Royal Pains coached by Paul Kirby, Jim Rice and Jeff Biggins.
-
-![extra](/docs/Fall2015/Region-55-U10-Royal-Pains.jpg)
--->
 
 <!--
 ### 2015 British Soccer Camps
@@ -70,14 +52,6 @@ Tryouts and coaching information is now available.
 Make-up picture day will be on Thursday November 6th, 2014 at 4pm at Lark View on the north end of the grassy area.
 Make up pictures are for individuals only; no team pictures will be done.
 
-### Region 55 Supporting the Fundraiser for Abigail
-
-A booth was set up for [Abigaile](/docs/Fall2014/abigail-flyer.pdf) at picture day to help raise funds.
-
-![Abigail booth](/docs/Fall2014/abigail1.jpg)
-
-![Park Picture](/docs/Fall2014/abigail2.jpg)
-
 ### College View Light Schedule
 
 The [Light Schedule](docs/Fall2014/2014_Light_Schedule_100514.pdf) is now available. It lists the times that teams have signed up to practice in the lights at College View.
@@ -90,93 +64,35 @@ Pictures are Sunday, October 5 behind HB Library. Listed times are picture times
 
 [Fall 2014 Picnic Volunteer Schedule](/docs/Fall2014/2014-Picnic-Volunteer-Schedule-20140930.pdf)
 
-
-## Fall 2014 Message
-
-Dear Region 55,
-
-As Commissioner, it is with great pride to provide you an update on R55 for the 2014-2015 year - marking the 40th anniversary of Region 55!
-
-As another year starts, let me also note that R55 is coming off an exceptional year with your region earning the highest recognition possible in AYSO - Platinum!
-
-I'm confident 2014-2015 will be a year of friends, fun, growth, and memories!
-
-We'll have over 1200 kids, filling rosters on about 130 teams, many wearing their jersey to school, the younger ones often sleeping in it on Friday (that's passion!) reuniting with friends and making new friends.
-Coaches coming back for "one more season" (once you start, it's hard to stop!).
-Referees, new and veteran, proudly wearing the "Bumblebee outfit" keeping the matches "Safe, Fun, and Fair".
-Team Parents organizing pizza parties, ordering banners, scheduling practices, communicating team details.
-Team volunteers painting the field, setting up goals, taking down the goals, picking up trash.
-Parents buying new gear, getting their kids to practice on time, picking them up on time, enjoying the match on Saturday, remembering win or lose, it's just a game and they're just kids!
-
-AYSO is an all-volunteer organization. It indeed takes everyone's help!
-
-I'd like to recognize the leadership of R55 that selflessly give their time, energy, and expertise year-round to make it all come together.
-When you see them, thank them for their contribution to R55!
-
-Executive Board:
-
-* Coach Administrators: Mark Di Lauro and Jason Kakimoto
-* Referee Administrator: Loren Maddy
-* Registrar: Denise English
-* Treasurer: Melissa Delgleize
-* CVPA: Hov Daniels
-* Safety Director: Dani DeGrood
-
-Division Coordinators:
-Christine Appell, Stephanie Clobes, Debbie Doherty, Wally Dubno, Troy Johnson, Angie Kessler, Paul Kirby, Marianne Low, Steve McCarthy, Heather Perez, Kelly Rice, Patty Sampson, Doreen Saporito
-
-See you on the field!
-Butch
-
 -->
 
 ### Region Handbook
 
-The [Region Handbook](/docs/Fall2015/AYSOR55RegionHandbook2015.pdf) has all the info for our Region 55. Check it out for any questions you may have.
+The [Region Handbook](/docs/Fall2015/AYSOR55RegionHandbook2015.pdf) has all the
+info for our Region 55. Check it out for any questions you may have.
 
-<!--
-## 2013-2014 REGIONAL ASSESSMENT AWARD - PLATINUM!
+### Notice About Drones
 
-As Commissioner of Region 55, I am pleased to report your region has achieved the highest honor available in AYSO - PLATINUM!
+On August 25, 2015, the Region 55 Board approved a resolution to prohibit the
+use of drones at games, practices and scrimmages. Soccer is a player's game.
+The Board's concerns range from a drone interfering with the game to the very
+real possibility that the drone will come down and hurt someone. Therefore,
+in order to ensure the health, welfare and safety of our players, coaches,
+officials and spectators Region 55 is prohibiting the use of drones. Referees
+have also been instructed to suspend the match if a drone is seen flying
+over the playing field.
 
-The Regional Assessment Award recognizes the success and dedication of the Regional Board and its volunteers and is designed to recognize Regions for their successful implementation of AYSO programs in their local communities. Regions that actively support AYSO philosophies and policies, strive for constant improvement and demonstrate a commitment to training its volunteers. Additionally, AYSO is looking for the effective use of resources, quality delivery of services, and innovation.
-
-To achieve Platinum status, Region 55 had to attain at least 90% of the available 340 points of the assessment. The five categories where Region 55 excelled were Administration, Coach, Referee, Finance, and Community Involvement.
-
-Congratulations to all who have helped lead Region 55 as one of the premier regions in all of AYSO!
-
-Thank you!
-
-Butch
-
-***
-
-
-### New Regional Referee Administrator
-
-Dear Friends, Families, and Supporters of Region 55,
-
-Please join me in welcoming and congratulating our newest Executive Board Member, Loren Maddy!
-
-I asked Loren to accept the role of Regional Referee Administrator (RRA) effective immediately, taking over for Klaus Schlechner who is stepping down for personal reasons.
-
-Klaus has been our RRA for several years and has been instrumental in driving our referee program, insisting on excellence, and spearheading one of the premier referee programs in AYSO!
-
-Thank you for all you've done Klaus!
-
-Loren has played a big part in R55.  The past few seasons Loren has flawlessly coordinated a few divisions, assisted in All Star Tryouts, Extra Tryouts, and this past Spring we asked Loren to assume a larger role to ensure success. With his Advanced Referee Badge, Loren is often found officiating several matches and providing leadership on the fields.
-
-Once again, congratulations and welcome Loren!
-
-Butch</br>
-Commissioner R55
--->
+Thanks for being an ambassador of the game and for your help in providing a
+fun, safe and positive experience to our youth players.
 
 ## Become a Volunteer
+
 ### Contact the [CVPA](mailto://cvpa@ayso55.org) for volunteering.
+
 The Child and Volunteer Protection Advocate CVPA can help! We need coaches, 
 referees, and lots of other help to keep Region 55 strong.
 
 ## AYSO VIP Program
+
 Region 55 is starting up a VIP program! In the meantime, please see
 [Region 143's](http://www.ayso143.org/vip) site for more information on the VIP program. Remember, AYSO is Everyone Plays!

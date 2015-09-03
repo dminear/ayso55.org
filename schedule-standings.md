@@ -27,13 +27,14 @@ Still working on it... Hopefully any day now...
 
 * [U8 Girls](/docs/Fall2014/2014_U08G_Schedule_090114.pdf)
 
+-->
+
 ### U10, U12(external site also for standings)
 
-[U10 and U12 Schedules and Standings](http://www.schedulesetc.com/active/index.asp?id=reg55nhb14F)
+[U10 and U12 Schedules and Standings](http://www.schedulesetc.com/active/index.asp?id=reg55nhb15f)
 
 ### U14, U16, U19 (similar site that is inter-region play)
 
-[U14 and up Schedules and Standings](http://www.schedulesetc.com/active/index.asp?id=area11K14F)
+[U14 and up Schedules and Standings](http://www.schedulesetc.com/active/index.asp?id=area11K15f)
 
--->
 
