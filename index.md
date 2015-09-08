@@ -4,17 +4,17 @@ Region 55 Players, and Volunteers, Friends, Families
 
 Welcome to Fall 2015!
 
-As your Commissioner, I’m excited each year to share with you where we are as 
+As your Commissioner, I'm excited each year to share with you where we are as 
 a Region and especially the tireless efforts of our volunteers!
 
 As we roll into our third consecutive year as a **Platinum Region**, the highest 
-honor any Region can earn, I’m again proud not just for the continued 
+honor any Region can earn, I'm again proud not just for the continued 
 excellence but the commitment our Leadership Team displays 12 months of the
 year to provide the best possible experience for the kids, parents, and
 volunteers of Region 55!
 
-Our player enrollment continues to be nearly 1200 kids, we’ll uniform about
-140 teams, playing at 6 locations, and with over 1000 games in 10 weeks…it’s
+Our player enrollment continues to be nearly 1200 kids, we'll uniform about
+140 teams, playing at 6 locations, and with over 1000 games in 10 weeks…it's
 a BIG operation! Special note to our friends at OVSD, we are fortunate to
 have developed a strong working relationship with OVSD, helping ensure we
 have fields to play on each year. Special thank you to **Cindy Pulfer at OVSD**
@@ -44,10 +44,10 @@ coaches know where to go to get certified, that your referees are aware of
 the trainings available, the team parents have Safe Haven training, etc…
 Thank them when you see them at your field on game day! Thank them for on 
 other days too! I thank them every chance I can, for without their 
-collective efforts I’m not sure where we’d be!
+collective efforts I'm not sure where we'd be!
 
 Anne Brasie – our Secretary, keeps the minutes at our Board meetings. 
-I’ve been told I talk a lot so her job isn’t easy! Thanks Anne!
+I've been told I talk a lot so her job isn't easy! Thanks Anne!
 
 Reading this on our website? Thank Dan Minear our Webmaster extraordinaire!
 
@@ -79,7 +79,7 @@ all with a “can-do” attitude and a smile! These two ladies are invaluable!
 Mark DiLauro, Jason Kakimoto, and Paul Kirby – our Coach Administrators are 
 beyond compare! Ensuring Region 55 coaches are age-appropriate trained and 
 volunteering their time to mentor new coaches throughout the season! Oh, and 
-they coach on our highly competitive Extra teams too! I’m always consulting 
+they coach on our highly competitive Extra teams too! I'm always consulting 
 these gentlemen, seeking their input on matters related to coaches, players, 
 and general day-to-day operations. Thank you guys!
 
