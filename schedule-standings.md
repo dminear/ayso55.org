@@ -10,24 +10,20 @@
 -->
 ## 2015 Fall Schedules and Standings
 
-Still working on it... Hopefully any day now...
-
-<!--
-## 2014 Fall Schedules and Standings
+The following *U6* and *U8* are TENTATIVE and may change slightly if there are coaching conflicts, so check back soon.
 
 ### U6 (no standings so schedule only)
 
-* [U6 Boys](http://www.ayso55.org/docs/Fall2014/2014_U06B_Schedule_090114.pdf)
+* [U6 Boys](/docs/Fall2015/U6%20Boys%202015.pdf)
 
-* [U6 Girls](http://www.ayso55.org/docs/Fall2014/2014_U06G_Schedule_090114.pdf)
+* [U6 Girls](/docs/Fall2015/U6%20Girls%202015.pdf)
 
 ### U8 (no standings so schedule only)
 
-* [U8 Boys](/docs/Fall2014/2014_U08B_Schedule_090114.pdf)
+* [U8 Boys](/docs/Fall2015/U8%20Boys%202015.pdf)
 
-* [U8 Girls](/docs/Fall2014/2014_U08G_Schedule_090114.pdf)
+* [U8 Girls](/docs/Fall2015/U8%20Boys%202015.pdf)
 
--->
 
 ### U10, U12(external site also for standings)
 
