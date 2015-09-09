@@ -16,7 +16,7 @@ The [Light Schedule](docs/Fall2014/2014_Light_Schedule_100514.pdf) is now availa
 
 ### Lineup Card
 
-You can grab the Region 55 [Lineup Card](http://www.ayso55.org/coach/Region_55_Lineup_Card.pdf)  for your games. You can enter your team information and print out copies.
+You can grab the Region 55 [Lineup Card](/coach/Region_55_Lineup_Card.pdf)  for your games. You can enter your team information and print out copies.
 
 ### Region Handbook
 
@@ -65,30 +65,30 @@ Tryouts for the Fall 2013 All-Star teams are scheduled for Sunday, November 10 a
 
 ## Playoff Information
 
-[U10 Playoffs](http://www.ayso55.org/docs/2013_U10_Playoffs_100913.pdf)
+[U10 Playoffs](/docs/2013_U10_Playoffs_100913.pdf)
 
-[U12 Playoffs](http://www.ayso55.org/docs/2013_U12_Playoffs_100913.pdf)
+[U12 Playoffs](/docs/2013_U12_Playoffs_100913.pdf)
 
-[U14 Playoffs](http://www.ayso55.org/docs/2013_U14_Playoffs_100913.pdf)
+[U14 Playoffs](/docs/2013_U14_Playoffs_100913.pdf)
 
 ### Fall 2013 Light Schedule (College View)
-[Fall 2013 Light Schedule effective 10/09/13](http://www.ayso55.org/docs/2013_Light_Schedule_100913.pdf)
+[Fall 2013 Light Schedule effective 10/09/13](/docs/2013_Light_Schedule_100913.pdf)
 -->
 
 
 ### Coach Clinic Handouts</h3>
 
-[U6 Handout](http://www.ayso55.org/coach/U06%20Coach%20Clinic%20Handout%202012.pdf)
+[U6 Handout](/coach/U06%20Coach%20Clinic%20Handout%202012.pdf)
 
-[U8 Handout](http://www.ayso55.org/coach/U08%20Coach%20Clinic%20Handout%202012.pdf) 
+[U8 Handout](/coach/U08%20Coach%20Clinic%20Handout%202012.pdf) 
 
 
-[U10 Handout](http://www.ayso55.org/coach/U10%20Coach%20Clinic%20Handout%202012.pdf)
+[U10 Handout](/coach/U10%20Coach%20Clinic%20Handout%202012.pdf)
 
-<img height="144" src="http://www.ayso55.org/images/cartoonp.gif" style="float:right" width="154" />
+<img height="144" src="/images/cartoonp.gif" style="float:right" width="154" />
 
 ### Unicorn Sports Discount Flyer
-You can support [Unicorn Sports](http://www.ayso55.org/coach/unicorn_2012.pdf) and get a 20% discount.
+You can support [Unicorn Sports](/coach/unicorn_2012.pdf) and get a 20% discount.
 
 ## AYSO philosophy:
 + Everybody plays
@@ -160,7 +160,7 @@ Number of players on the field:
 + U14 &amp; up - play 11 v 11 (with goalkeepers)
 
 
-[Game Scoring and Standings Calculation](http://www.ayso55.org/coach/GameScoring)
+[Game Scoring and Standings Calculation](/coach/GameScoring)
 
 The above link will provide all the laws governing Games Scoring.
 

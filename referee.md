@@ -4,11 +4,11 @@
 
 ### Fall 2015
 
-[Referee Training](http://www.ayso55.org/docs/Fall2015/Fall%202015%20Ref%20Training.pdf)
+[Referee Training](/docs/Fall2015/Fall%202015%20Ref%20Training.pdf)
 
 Referee Training is done in stages built on each other. First is a U8 Certification, and allows you to referee U6 and U8. After taking the U8 class, you can take the Regional Referee class, which allows you to referee U6  - U12.  Further stages are Intermediate Referee, Advanced Referee, and National Referee.
 
-See the [Training Dates](http://www.ayso55.org/docs/Fall2015/Fall%202015%20Dates.pdf) for class dates and times.
+See the [Training Dates](/docs/Fall2015/Fall%202015%20Dates.pdf) for class dates and times.
 
 
 <a href="https://twitter.com/AYSO55Referee" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @AYSO55Referee</a>
@@ -16,7 +16,7 @@ See the [Training Dates](http://www.ayso55.org/docs/Fall2015/Fall%202015%20Dates
 
 ### Referee Points
 
-[Current ref point listings](http://www.ayso55.org/refpoints/2015) have the point breakdown and current status.
+[Current ref point listings](/refpoints/2015) have the point breakdown and current status.
 
 ### Referee Mentoring
 
@@ -35,7 +35,7 @@ Use the following links to be familiar with the laws and their application.
 
 
 
-<img alt="" height="85" src="http://www.ayso55.org/images/refanima.gif" style="float:right" width="88" />
+<img alt="" height="85" src="/images/refanima.gif" style="float:right" width="88" />
 
 ### Common Excuses for not being a Referee
 
@@ -132,7 +132,7 @@ assist our younger referees.
 	bud and end it now. We will begin to remove names from the referee 
 	scheduler if we see you signed up to ref your own teams game.
 
-<img alt="" height="82" src="http://www.ayso55.org/images/refblind.gif" style="float:right" width="97">
+<img alt="" height="82" src="/images/refblind.gif" style="float:right" width="97">
 
 Region 55 will be holding special Referee Field Training clinics 
 this Fall.  This training program is designed for new 
@@ -144,8 +144,8 @@ referee class.
 
 ### Referee Quick Guides
 
-[Overview of Law 11](http://www.ayso55.org/referee_docs/quickguides/law11_offside.PDF)
+[Overview of Law 11](/referee_docs/quickguides/law11_offside.PDF)
 
-[Pre-game information](http://www.ayso55.org/referee_docs/quickguides/pregame.PDF)
+[Pre-game information](/referee_docs/quickguides/pregame.PDF)
 
-[Key Highlights](http://www.ayso55.org/referee_docs/quickguides/keypoints.PDF)
+[Key Highlights](/referee_docs/quickguides/keypoints.PDF)

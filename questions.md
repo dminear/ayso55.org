@@ -50,8 +50,8 @@ Follow this link to find the locations.
 
 **Where is the check request form?**
 
-The [check request form](http://www.ayso55.org/forms/AYSO-Region-55-Check-Request-Form.pdf) is available online.
+The [check request form](/forms/AYSO-Region-55-Check-Request-Form.pdf) is available online.
 
 **Where is the claim form?**
 
-The [claim form](http://www.ayso55.org/docs/AYSO-Claim-form-english.pdf) is available online.
+The [claim form](/docs/AYSO-Claim-form-english.pdf) is available online.

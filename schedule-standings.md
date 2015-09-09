@@ -22,7 +22,7 @@ The following *U6* and *U8* are TENTATIVE and may change slightly if there are c
 
 * [U8 Boys](/docs/Fall2015/U8%20Boys%202015.pdf)
 
-* [U8 Girls](/docs/Fall2015/U8%20Girls%202015.pdf)
+* [U8 Girls](/docs/Fall2015/U8%20Girls%202015.pdf) - coach names corrected
 
 
 ### U10, U12(external site also for standings)

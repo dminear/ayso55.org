@@ -6,19 +6,19 @@
 
 We are all volunteers, and we can't run the program without your help. Region 55 is a bunch of dedicated individuals that like helping and enjoy seeing the smiles on the kids faces.
 
-If a new volunteer (Coach, Ref, Team Parent, etc.), then follow the [new volunteers](http://www.ayso55.org/docs/Fall2015/New%20volunteers.pdf) handout.
+If a new volunteer (Coach, Ref, Team Parent, etc.), then follow the [new volunteers](/docs/Fall2015/New%20volunteers.pdf) handout.
 
-If returning volunteer, then follow the [returning volunteers](http://www.ayso55.org/docs/Fall2015/Returning%20volunteers.pdf) handout.
+If returning volunteer, then follow the [returning volunteers](/docs/Fall2015/Returning%20volunteers.pdf) handout.
 
 ### Player Registration
 
-[Registration flyer](http://www.ayso55.org/docs/Fall2015/2015%20Registration%20Flyer.pdf)
+[Registration flyer](/docs/Fall2015/2015%20Registration%20Flyer.pdf)
 
-[AYSO 2015 Season age chart](http://www.ayso55.org/docs/Fall2015/Age%20Guide%20for%202015-2016%20Season.pdf)
+[AYSO 2015 Season age chart](/docs/Fall2015/Age%20Guide%20for%202015-2016%20Season.pdf)
 
-[More Fall 2015 registration info](http://www.ayso55.org/docs/Fall2015/Fall%20Registration%202015%20info.pdf) has further details.
+[More Fall 2015 registration info](/docs/Fall2015/Fall%20Registration%202015%20info.pdf) has further details.
 
-There is some help from the 2014 Fall season dealing with [eAYSO Preregistration Information](http://www.ayso55.org/docs/Fall2014/eAYSO%20Pre-Registration%20info.pdf) that you might find useful.
+There is some help from the 2014 Fall season dealing with [eAYSO Preregistration Information](/docs/Fall2014/eAYSO%20Pre-Registration%20info.pdf) that you might find useful.
 
 <!--
 ### Spring 2015 Soccer Registration
