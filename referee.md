@@ -28,12 +28,11 @@ Use the following links to be familiar with the laws and their application.
 
 * [Laws of the Game](/docs/Fall2014/2014-15-Laws-of-the-Game.pdf)
 * [Amendments to the Laws of the Game](/docs/Fall2014/2014-15-Amendments-to-the-Laws-of-the-Game.pdf)
-<!--
-* [Advice to Referees](/docs/2013-14-Advice-to-Referees-022714.pdf)
--->
 * [Offside Make Easy](/docs/Offside-Made-Easy-041513.pdf)
 * [Laws of the Game Made Easy](/docs/Laws-of-the-Game-Made-Easy-041513.pdf)
 * [Guide to Procedures](/docs/Guide-to-Procedures-041513.pdf)
+
+<!-- * [Advice to Referees](/docs/2013-14-Advice-to-Referees-022714.pdf) -->
 
 
 
