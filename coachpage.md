@@ -160,7 +160,7 @@ Number of players on the field:
 + U14 &amp; up - play 11 v 11 (with goalkeepers)
 
 
-[Game Scoring and Standings Calculation](/coach/GameScoring)
+[Game Scoring and Standings Calculation](/coach/GameScoring.html)
 
 The above link will provide all the laws governing Games Scoring.
 
