@@ -26,7 +26,7 @@ U10 and U12 - sign in to the [Region 55 Ref Scheduler](http://www.schedulesetc.c
 
 U14 and up - sign in to the [Area K Ref Scheduler](http://www.schedulesetc.com/referee/index.asp?id=area11k15f) - these games are among regions.
 
-If you don't have an account then send an email to the Referee Administrator. A [guide](/docs/Using-the-Region-55-Referee-Scheduler.pdf) to use the scheduler is available.
+If you don't have an account then send an email to the Referee Administrator. A [guide](/docs/Using-the-Region-55-Referee-Scheduler.pdf) to use the scheduler is available, but the link is different for every season -- use the link above or substitute the correct year in the URL.  That is reg55nhb14F becomes reg55nhb15F for "region 55 north huntington beach 2015 fall". You get the idea.
 
 ### Referee Mentoring
 
