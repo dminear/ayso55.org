@@ -10,8 +10,6 @@
 -->
 ## 2015 Fall Schedules and Standings
 
-The following *U6* and *U8* are TENTATIVE and may change slightly if there are coaching conflicts, so check back soon.
-
 ### U6 (no standings so schedule only)
 
 * [U6 Boys](/docs/Fall2015/U6%20Boys%202015.pdf)
@@ -22,7 +20,7 @@ The following *U6* and *U8* are TENTATIVE and may change slightly if there are c
 
 * [U8 Boys](/docs/Fall2015/U8%20Boys%202015.pdf)
 
-* [U8 Girls](/docs/Fall2015/U8%20Girls%202015.pdf) - coach names corrected
+* [U8 Girls](/docs/Fall2015/U8%20Girls%202015.pdf)
 
 
 ### U10, U12(external site also for standings)
