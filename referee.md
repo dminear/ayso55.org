@@ -18,6 +18,16 @@ See the [Training Dates](/docs/Fall2015/Fall%202015%20Dates.pdf) for class dates
 
 [Current ref point listings](/refpoints/2015) have the point breakdown and current status.
 
+### Referee Scheduler
+
+U6 and U8 - home team provides the referee.
+
+U10 and U12 - sign in to the [Region 55 Ref Scheduler](http://www.schedulesetc.com/referee/index.asp?id=reg55nhb15F) - all these games are in the region.
+
+U14 and up - sign in to the [Area K Ref Scheduler](http://www.schedulesetc.com/referee/index.asp?id=area11k15f) - these games are among regions.
+
+If you don't have an account then send an email to the Referee Administrator. A [guide](/docs/Using-the-Region-55-Referee-Scheduler.pdf) to use the scheduler is available.
+
 ### Referee Mentoring
 
 The evaluation forms for [Intermediate Referee](/docs/Int_Ref_Mentoring.pdf) and [Regional Referee](/docs/Reg_Ref_Mentoring.pdf) are now available.
