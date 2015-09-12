@@ -1,12 +1,8 @@
-### Returning Referee Meeting at CUMC
+### Urgent Message 8:30pm 9-11-2015
 
-The returning ref meeting this Friday, September 11 at 6:30pm is at 
-<pre>
-	Community United Methodist Church
-	6652 Heil Avenue
-	Huntington Beach, CA 92647
-</pre>
-...and not at SCE where you might have seen on a flyer.
+Dear R55 families, it is with heavy hearts we notify you that we lost our leader this evening. Butch Ducharme passed away doing what he loved most - taking care of preparations for the families and kids of R55. We will miss him.
+
+We will be observing a moment of silence tomorrow before each match, to honor him. Please keep Butch and his family in your thoughts and prayers.
 
 ### Welcome to the Fall 2015 Season!
 
