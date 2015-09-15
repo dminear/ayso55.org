@@ -1,3 +1,5 @@
+![Butch](https://2dbdd5116ffa30a49aa8-c03f075f8191fb4e60e74b907071aee8.ssl.cf1.rackcdn.com/6021654_1442348383.1251.jpg)
+
 Butch Ducharme passed away suddenly on Friday September 11th, leaving behind 
 his wife and three daughters. He was a loving husband to his wife Mona and a 
 proud father to Olivia, Madeline and Gabrielle. 
