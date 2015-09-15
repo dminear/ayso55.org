@@ -27,4 +27,4 @@ Match Covered        Referee     AR
   U13 and up         36          18
 </pre>
 
-* [Week 1](/refpoints/2015/Referee_Points_Week_1.pdf) Not available yet.
+* [Week 1](/refpoints/2015/RefPoints20150914.pdf)
