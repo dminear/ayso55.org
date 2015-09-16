@@ -9,7 +9,7 @@ community - always with a smile on his face.
 
 He meant so much to the children and families of AYSO and made a huge impact 
 in many lives over his 16 years of service as a coach, referee and 
-Comissioner of Region 55.  We are truly heartbroken.
+Commissioner of Region 55.  We are truly heartbroken.
  
 The vigil will be Monday 9/21/15 at 7pm, and the Memorial Service will be 
 Tuesday 9/22/15 at 10:30am with a reception to follow at the church hall.
