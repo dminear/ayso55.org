@@ -27,10 +27,12 @@ Match Covered        Referee     AR
   U13 and up         36          18
 </pre>
 
-[Ref points by Referee](/refpoints/2015/RefPointsbyReferee.pdf)
+[Ref points by Referee](/refpoints/2015/RefPointsbyReferee.pdf) check the weekly ref points for the latest totals.
 
 * [Week 1](/refpoints/2015/RefPoints20150914.pdf)
 * [Week 2](/refpoints/2015/RefPoints20150921.pdf)
 * [Week 3](/refpoints/2015/RefPoints20150926.pdf)
 * [Week 4](/refpoints/2015/Ref%20Points%20-%20Week%204.pdf)
+* Week 5 not available
+* [Week 6](/refpoints/2015/Ref%20Points%20Week%206.pdf)
 
