@@ -1,13 +1,13 @@
-<!-- 
-### 2014 Fall Playoff Schedule
 
-* [U10 Playoffs](/docs/Fall2014/2014-U10-Playoffs.pdf) Top 8 teams, regardless of pool, will be seeded into playoffs based on their regular play points.
+### 2015 Fall Playoff Schedule
 
-* [U12 Playoffs](/docs/Fall2014/2014-U12-Playoffs.pdf) The top 4 teams will be seeded into playoffs based on their regular play points.
+* [U10 Playoffs](/docs/Fall2015/U10%20Playoffs%202015.pdf) Top 8 teams, regardless of pool, will be seeded into playoffs based on their regular play points.
 
-* [U14 Playoffs](/docs/Fall2014/2014-U14-Playoffs.pdf) Teams will be seeded into playoffs based on their area play points.
+* [U12 Playoffs](/docs/Fall2015/U12%20Playoffs%202015.pdf) The top 4 teams will be seeded into playoffs based on their regular play points.
 
--->
+* [U14 Playoffs](/docs/Fall2015/U14%20Playoffs%202015.pdf) Teams will be seeded into playoffs based on their area play points.
+
+
 ## 2015 Fall Schedules and Standings
 
 ### U6 (no standings so schedule only)
