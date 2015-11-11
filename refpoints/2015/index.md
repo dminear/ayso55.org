@@ -36,4 +36,6 @@ Match Covered        Referee     AR
 * Week 5 not available
 * [Week 6](/refpoints/2015/Ref%20Points%20Week%206.pdf)
 * [Week 7](/refpoints/2015/RefPointsWeek7.pdf)
+* Week 8 not available
+* [Week 9](/refpoints/2015/RefPointsWeek9.pdf)
 
