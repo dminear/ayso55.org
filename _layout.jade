@@ -27,7 +27,8 @@ html
     div.container
       div.row
         div.col-sm-3
-          != partial("_mission")
+          div.mission
+            != partial("_mission")
         div.col-sm-9
           div.content
             != yield
