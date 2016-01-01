@@ -2,18 +2,21 @@
 
 ### Coaching Requirements
 
+<!--
 Spring 2016 - [coach information](/docs/Spring2016/Spring-Coaches-2016-v2.pdf) is available.
 
-<!--
+
 Fall 2015 - [coaching infomation](/coach/CoachingRequirements-2015Registration.pdf). Who can coach and what do I need?
 
 ### Supercamp Flyer 2015
 Check out the [Supercamp Flyer](/docs/Spring2015/supercamp_flyer2015.pdf) for information about the Supercamp happening Feb 27 - March 1.
--->
+
 
 ### College View Light Schedule
 
 The [Light Schedule](docs/Fall2015/CollegeViewLightSchedule.pdf) is available. It lists the times that teams have signed up to practice under the lights at College View.
+
+-->
 
 ### Lineup Card
 
