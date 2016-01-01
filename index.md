@@ -1,6 +1,11 @@
-### Make-up Picture Day
+<!-- ### Make-up Picture Day
 
 Make-up Picture Day will be Monday November 2nd at Lark View. The photographer will be on the north side, just across the street from the apartments. Pictures are at 4pm.
+-->
+### Spring 2016 Soccer
+
+Check the Registration button for Spring 2016 information, and coaching information available on the Coaching page.
+
 
 ### Support the Ducharme Family
 
