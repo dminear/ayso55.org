@@ -12,7 +12,7 @@ If returning volunteer, then follow the [returning volunteers](/docs/Fall2015/Re
 
 ### Player Registration
 
-[Spring 2016] (/docs/Spring2016/SPRING-2016-SOCCER-REGISTRATION-V2.pdf) registration is now available.
+[Spring 2016](/docs/Spring2016/SPRING-2016-SOCCER-REGISTRATION-V2.pdf) registration is now available.
 
 <!--
 [Registration flyer](/docs/Fall2015/2015%20Registration%20Flyer.pdf)

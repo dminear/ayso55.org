@@ -2,7 +2,7 @@
 
 ### Coaching Requirements
 
-Spring 2016 - [coach information] (/docs/Spring2016/Spring-Coaches-2016-v2.pdf) is available.
+Spring 2016 - [coach information](/docs/Spring2016/Spring-Coaches-2016-v2.pdf) is available.
 
 <!--
 Fall 2015 - [coaching infomation](/coach/CoachingRequirements-2015Registration.pdf). Who can coach and what do I need?
