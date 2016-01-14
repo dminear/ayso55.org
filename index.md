@@ -1,7 +1,9 @@
-<!-- ### Make-up Picture Day
+### Region 55 Challenger Sports U6-U8 Spring Program
 
-Make-up Picture Day will be Monday November 2nd at Lark View. The photographer will be on the north side, just across the street from the apartments. Pictures are at 4pm.
--->
+Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf) 
+for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](http://WWW.CHALLENGERSPORTS.COM). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
+ email osharp@challengersports.com
+
 ### Spring 2016 Soccer
 
 Check the Registration button for Spring 2016 information, and coaching information available on the Coaching page.
@@ -35,122 +37,6 @@ to help give back to his wife and children the love we all received
 from Butch. 
 
 <!--
-### Welcome to the Fall 2015 Season!
-
-Region 55 Players, and Volunteers, Friends, Families
-
-Welcome to Fall 2015!
-
-As your Commissioner, I'm excited each year to share with you where we are as 
-a Region and especially the tireless efforts of our volunteers!
-
-As we roll into our third consecutive year as a **Platinum Region**, the highest 
-honor any Region can earn, I'm again proud not just for the continued 
-excellence but the commitment our Leadership Team displays 12 months of the
-year to provide the best possible experience for the kids, parents, and
-volunteers of Region 55!
-
-Our player enrollment continues to be nearly 1200 kids, we'll uniform about
-140 teams, playing at 6 locations, and with over 1000 games in 10 weeks... it's
-a BIG operation! Special note to our friends at OVSD, we are fortunate to
-have developed a strong working relationship with OVSD, helping ensure we
-have fields to play on each year. Special thank you to **Cindy Pulfer at OVSD**
-offices as she is always watching out for Region 55! If you know Cindy, say
-thank you!
-
-In addition to the facilities, there is no way just a few folks can pull
-this off... it takes an awful lot of dedicated people, shameful hours, expert
-coordination, egoless cooperation, mutual support, and a burning desire to
-make it all happen. I am extremely proud of the group of people I get the
-pleasure of working with throughout the year. Let me take you through this
-awesome group of volunteers!
-
-While our Board has about 25 people, a significant part of it is our
-**Division Coordinators**.
-
-* **Stephanie Clobes** and **Troy Johnson** at Sun View, U14-U19 Boys and Girls
-* **Wally Dubno** and **Paul Kirby** at Glen View, U12 Boys and Girls
-* **Dean West** and **Cliff Macklin** at Spring View, U10 Boys
-* **Heather Perez** and **Jeff Biggins** at College View U10 Girls
-* **Valerie McCarthy**, **Christine Appell**, and **Doreen Saporito** at Lark View U8 Boys and Girls
-* **Kelly Rice**, **Christine Knip**, **Mimi Carles**, and **John Rice** at Westmont U6 Boys and Girls
-
-They are magnificent! These leaders have pulled this Fall season together 
-better than any year I can recall! They worked many hours to ensure your 
-coaches know where to go to get certified, that your referees are aware of 
-the trainings available, the team parents have Safe Haven training, etc...
-Thank them when you see them at your field on game day! Thank them for on 
-other days too! I thank them every chance I can, for without their 
-collective efforts I'm not sure where we'd be!
-
-**Anne Brasie** - our Secretary, keeps the minutes at our Board meetings. 
-I've been told I talk a lot so her job isn't easy! Thanks Anne!
-
-Reading this on our website? Thank **Dan Minear** our Webmaster extraordinaire!
-
-Shout-Outs - **Matt Ashley**, **Steve Jacobsen**, **Marvin Springer**, **Bruce Bartos**, 
-**David Wiley**, **Andy Mindlin**, **Hamid Jafroudi** (Gosh - I may have left a couple 
-folks out, but know that I appreciate the heck outta ya!) - These tenured 
-volunteers give significant time to assist in the vital coach and referee
- trainings throughout July, August and into September. Thank you Gentlemen! 
-
-Special Shout-Out - **Debby Brown**! Debby, new to Region 55, was asked to 
-coordinate our new Team Parent role and she has owned it from the beginning! 
-I was fortunate enough to witness the remarkable turnout and presentation at 
-the inaugural Team Parent meeting held a couple weeks ago - {{{WOW!!!}}} 
-Debby has ensured every team parent is fully on-board and ready to roll!
-
-Super-Special Shout Out - **Becky Kirby**! I asked Becky to take over the game 
-schedules. Becky never hesitated! Tireless efforts to de-conflict game 
-schedules for coaches that may be coaching two or more teams, creating the 
-matrix that made my head spin! Becky, unbelievable work under fire... you are 
-fabulous!
-
-Our Core Board
-
-**Denise English** and **Marianne Low** - our Registrars - Denise and Marianne have 
-rallied through all the registrations and created our balanced rosters. 
-Handled player drops, replacements, countless phone calls from me and others, 
-all with a “can-do” attitude and a smile! These two ladies are invaluable!
-
-**Mark DiLauro**, **Jason Kakimoto**, and **Paul Kirby** - our Coach Administrators are 
-beyond compare! Ensuring Region 55 coaches are age-appropriate trained and 
-volunteering their time to mentor new coaches throughout the season! Oh, and 
-they coach on our highly competitive Extra teams too! I'm always consulting 
-these gentlemen, seeking their input on matters related to coaches, players, 
-and general day-to-day operations. Thank you guys!
-
-**Melissa Delgeize**  - our Treasurer utilizes the newest AYSO accounting 
-systems, one of the first regions in the country to fully adopt this system! 
-Thank you Melissa!
-
-**Hovannes Daniels** - "Hov", our Child and Volunteer Protection Advocate, is 
-ALWAYS working to clear volunteers and provide the Region guidance on 
-personnel matters. I lean on his insight regularly. Thank you Hov! 
-
-**Loren Maddy** - our Referee Administrator, along with **Peter Furman** (Director 
-of Mentoring) and **Rick Sedivy** (Director of Instruction) have created a 
-referee program that is the gold standard! Loren took over the lead role 
-just last year and has implemented strategic initiatives that have been 
-instrumental in developing our program! Providing the opportunities for new 
-referees to gain certifications and mentoring them along the way. Loren, 
-Peter, and Rick have also fostered a blossoming youth referee program that 
-provides an opportunity for our kids to gain confidence and grow while 
-officiating youth soccer! To my fellow referees, you guys are awesome!
-
-**Dani DeGrood** - our Safety Director ensures that we have a dedicated point 
-lady for all AYSO safety related queries. When a child or volunteer is 
-injured, Dani takes the lead with precision and professionalism! We are 
-very lucky to have Dani on our Board!
-
-When you see the many folks helping put this together, take a few minutes 
-to thank them, for we are all volunteers! I invite you to be a part of this 
-great organization, grab a paint sprayer, setup a goal, get involved, enjoy 
-the moments, and remember it is only a game played by kids!
-
-Warmest Regards,
-
-Butch
 
 ### Fall 2015 Registration Dates
 
@@ -202,23 +88,6 @@ to approval and not guaranteed a team.
 a continuation of play for players who played in the 
 recreational division of AYSO in the Fall (Extra players are not eligible).
 Tryouts and coaching information is now available.
-
-### Make-Up Picture Day
-
-Make-up picture day will be on Thursday November 6th, 2014 at 4pm at Lark View on the north end of the grassy area.
-Make up pictures are for individuals only; no team pictures will be done.
-
-### College View Light Schedule
-
-The [Light Schedule](docs/Fall2014/2014_Light_Schedule_100514.pdf) is now available. It lists the times that teams have signed up to practice in the lights at College View.
-
-### Picture Information and Schedules
-
-Pictures are Sunday, October 5 behind HB Library. Listed times are picture times. Arrive early, you probably need 20 minutes to find and fill out the picture form that you forgot to bring!
-
-[Fall 2014 Picture Schedule](/docs/Fall2014/R55-Picture-Schedule_v3.pdf)
-
-[Fall 2014 Picnic Volunteer Schedule](/docs/Fall2014/2014-Picnic-Volunteer-Schedule-20140930.pdf)
 
 -->
 

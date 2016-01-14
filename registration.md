@@ -4,11 +4,17 @@
 
 ### Online signup help for new and returning volunteers
 
-We are all volunteers, and we can't run the program without your help. Region 55 is a bunch of dedicated individuals that like helping and enjoy seeing the smiles on the kids faces.
+We are all volunteers, and we cannot run the program without your help. Region 55 is a bunch of dedicated individuals that like helping and enjoy seeing the smiles on the kids faces.
 
 If a new volunteer (Coach, Ref, Team Parent, etc.), then follow the [new volunteers](/docs/Fall2015/New%20volunteers.pdf) handout.
 
 If returning volunteer, then follow the [returning volunteers](/docs/Fall2015/Returning%20volunteers.pdf) handout.
+
+### Region 55 Challenger Sports U6-U8 Spring Program
+
+Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf) 
+for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](http://WWW.CHALLENGERSPORTS.COM). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
+ email osharp@challengersports.com
 
 ### Player Registration
 
