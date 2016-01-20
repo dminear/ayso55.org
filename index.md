@@ -1,3 +1,10 @@
+### CONGRATULATIONS TO REGION 55'S U13G EXTRA TEAM - SECTION 11 CHAMPIONS
+
+![champs](/docs/Fall2015/IMG_8333-614x397.jpg)
+
+COACH VOLZ, COACH KIRBY AND THE TEAM WILL BE OFF TO ARIZONA FOR THE
+WESTERN STATE CHAMPIONSHIPS
+
 ### Region 55 Challenger Sports U6-U8 Spring Program
 
 Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf) 
