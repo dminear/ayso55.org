@@ -5,6 +5,12 @@
 COACH VOLZ, COACH KIRBY AND THE TEAM WILL BE OFF TO ARIZONA FOR THE
 WESTERN STATE CHAMPIONSHIPS
 
+### CONGRATULATIONS TO OUR U14G All STAR TEAM
+
+![u14g_all_star](/docs/Fall2015/U14G_all_star.jpg)
+
+Congratulations to our U14G All Star Team - Area K Champions.  Coach Johnson and the team now move on to the Section Playoffs.
+
 ### Region 55 Challenger Sports U6-U8 Spring Program
 
 Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf) 
