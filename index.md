@@ -17,6 +17,14 @@ Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf
 for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](http://WWW.CHALLENGERSPORTS.COM). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
  email osharp@challengersports.com
 
+### Referee Training
+
+Spring 2016 referee training for new regional referees and referees seeking
+to upgrade their badge will be offered at the Area K SuperCamp on
+February 27-28, 2016.
+
+More details can be found at (http://www.ayso11k.org/supercamp/supercamp.shtml)
+
 ### Spring 2016 Soccer
 
 Check the Registration button for Spring 2016 information, and coaching information available on the Coaching page.
