@@ -2,6 +2,17 @@
 
 <strong>All registration is done online at [eayso](http://www.eayso.org)! You need to register there before you attend any classes!</strong> 
 
+### Referee Training
+
+Referee On-Line Training:  this is a two-part course requirement. Part 1 is taking
+the on-line referee training course at www.aysotraining.org. Select the Referee
+On-Line Training Course to begin. You will need an AYSO ID Number (see above
+for online registration -- you must have an ID to map the training to). This
+will take a new referee approximately 2 to 3 hours to complete. Part 2 is
+attending the companion course on August 29th. Enroll for this class at
+(http://www.eayso.org) and select the Basic Referee On-Line Companion
+Course, Roster 201502636. Both parts are required to certify you as a Referee. 
+
 ### Fall 2015
 
 [Referee Training](/docs/Fall2015/Fall%202015%20Ref%20Training.pdf)

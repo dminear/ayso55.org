@@ -74,11 +74,6 @@ New for this fall, you can download the [sweatshirt order form](/docs/Fall2015/S
 See the [Extra](/extra/) page for detailed information.
 
 
-### Referee Training
-  **NEW** online offered this year.  See Referee tab for more details.  We will also be offering traditional classroom training.
-
-Referee On-Line Training:  this is a two-part course requirement. Part 1 is taking the on-line referee training course at www.aysotraining.org. Select the Referee On-Line Training Course to begin. You will need an AYSO ID Number (see above for online registration -- you must have an ID to map the training to). This will take a new referee approximately 2 to 3 hours to complete. Part 2 is attending the companion course on August 29th. Enroll for this class at www.eayso.org and select the Basic Referee On-Line Companion Course, Roster 201502636. Both parts are required to certify you as a Referee. 
-
 
 <!--
 ### 2015 British Soccer Camps
