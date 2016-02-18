@@ -23,6 +23,14 @@ Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf
 for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](http://WWW.CHALLENGERSPORTS.COM). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
  email osharp@challengersports.com
 
+### Referee Training
+
+Spring 2016 referee training for new regional referees and referees seeking
+to upgrade their badge will be offered at the Area K SuperCamp on
+February 27-28, 2016.
+
+More details can be found at (http://www.ayso11k.org/supercamp/supercamp.shtml)
+
 ### Spring 2016 Soccer
 
 Check the Registration button for Spring 2016 information, and coaching information available on the Coaching page.
@@ -71,11 +79,6 @@ New for this fall, you can download the [sweatshirt order form](/docs/Fall2015/S
 
 See the [Extra](/extra/) page for detailed information.
 
-
-### Referee Training
-  **NEW** online offered this year.  See Referee tab for more details.  We will also be offering traditional classroom training.
-
-Referee On-Line Training:  this is a two-part course requirement. Part 1 is taking the on-line referee training course at www.aysotraining.org. Select the Referee On-Line Training Course to begin. You will need an AYSO ID Number (see above for online registration -- you must have an ID to map the training to). This will take a new referee approximately 2 to 3 hours to complete. Part 2 is attending the companion course on August 29th. Enroll for this class at www.eayso.org and select the Basic Referee On-Line Companion Course, Roster 201502636. Both parts are required to certify you as a Referee. 
 
 
 <!--
