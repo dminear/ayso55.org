@@ -1,7 +1,7 @@
 ### Region 55 Challenger Sports U6-U8 Spring Program
 
 Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf) 
-for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](http://WWW.CHALLENGERSPORTS.COM). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
+for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&iid=81345&m=0&cid=313&zip=92647&zipdis=30&returncom=productlist). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
  email osharp@challengersports.com
 
 ### CONGRATULATIONS TO REGION 55'S U13G EXTRA TEAM - SECTION 11 CHAMPIONS
@@ -20,7 +20,7 @@ Congratulations to our U14G All Star Team - Area K Champions.  Coach Johnson and
 ### Region 55 Challenger Sports U6-U8 Spring Program
 
 Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf) 
-for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](http://WWW.CHALLENGERSPORTS.COM). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
+for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&iid=81345&m=0&cid=313&zip=92647&zipdis=30&returncom=productlist). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
  email osharp@challengersports.com
 
 ### Referee Training
