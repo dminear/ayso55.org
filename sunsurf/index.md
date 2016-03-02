@@ -35,14 +35,16 @@
 Make region check payable to: AYSO Region 55 Sun & Surf Tournament.
 
 *Address:*
-
-  Tournament Registrar
-  Butch Ducharme Memorial Sun & Surf Tournament
-  P.O. Box 1852
-  Huntington Beach, CA 92647
+<pre>
+Tournament Registrar
+Butch Ducharme Memorial Sun & Surf Tournament
+P.O. Box 1852
+Huntington Beach, CA 92647
+</pre>
 
 *Information:*
-
-  Call Melissa Delgleize  (714) 585-3161
-  E-mail:  sunsurf@ayso55.org
-  Web site:   http://ayso55.org/sunsurf
+<pre>
+Call Melissa Delgleize  (714) 585-3161
+E-mail:  sunsurf@ayso55.org
+Web site:   http://ayso55.org/sunsurf
+</pre>
