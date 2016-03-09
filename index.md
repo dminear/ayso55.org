@@ -1,9 +1,12 @@
-### Region 55 Challenger Sports U6-U8 Spring Program
+### Extra Tryouts
 
-Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf) 
-for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&iid=81345&m=0&cid=313&zip=92647&zipdis=30&returncom=productlist). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
- email osharp@challengersports.com
+The Extra Tryouts will be taking place on Sunday, April 17th and Sunday, May 1st at Lark View.
 
+* U14G and U13B will be held from 10:00 AM to 11:30 PM
+* U13G and U12G will be held from 12:00 PM to 1:30 PM
+* U11G and U11B and U12B will be held from 2:00 PM to 3:30 PM
+
+<!--
 ### CONGRATULATIONS TO REGION 55'S U13G EXTRA TEAM - SECTION 11 CHAMPIONS
 
 ![champs](/docs/Fall2015/IMG_8333-614x397.jpg)
@@ -16,6 +19,7 @@ WESTERN STATE CHAMPIONSHIPS
 ![u14g_all_star](/docs/Fall2015/U14G_all_star.jpg)
 
 Congratulations to our U14G All Star Team - Area K Champions.  Coach Johnson and the team now move on to the Section Playoffs.
+-->
 
 ### Region 55 Challenger Sports U6-U8 Spring Program
 
