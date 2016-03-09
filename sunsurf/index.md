@@ -30,7 +30,7 @@
 
 *Acceptance:*	The application deadline is May 17th. All teams will be notified within 1 week of the application deadline or receipt of application (whichever is latest) as to their status. 
 
-*How:*	Apply online at http://www.ayso55.org/sunsurf  Please send 1 Region check to cover both the Team Entry and Referee fees to the address below.
+*How:*	Apply online at (http://www.ayso11k.org/cgi-bin/ol_print_start_page.pl?tourny_name=sun_surf)  Please send 1 Region check to cover both the Team Entry and Referee fees to the address below.
 
 Make region check payable to: AYSO Region 55 Sun & Surf Tournament.
 
