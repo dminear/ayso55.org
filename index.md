@@ -1,3 +1,7 @@
+## Butch Ducharme Memorial Sun and Surf Tournament
+
+Region 55 is proud to host our very own [Sun & Surf Tournament](/sunsurf). Get involved and make Butch proud too!
+
 ### Extra Tryouts
 
 The Extra Tryouts will be taking place on Sunday, April 17th and Sunday, May 1st at Lark View.
