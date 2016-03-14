@@ -29,13 +29,17 @@ See the [Training Dates](/docs/Fall2015/Fall%202015%20Dates.pdf) for class dates
 
 [Current ref point listings](/refpoints/2015) have the point breakdown and current status.
 
-### Referee Scheduler
+### 2016 Spring Referee Scheduler
+
+<!--
 
 U6 and U8 - home team provides the referee.
 
 U10 and U12 - sign in to the [Region 55 Ref Scheduler](http://www.schedulesetc.com/referee/index.asp?id=reg55nhb15F) - all these games are in the region.
 
-U14 and up - sign in to the [Area K Ref Scheduler](http://www.schedulesetc.com/referee/index.asp?id=area11k15f) - these games are among regions.
+U14 and up - -->
+
+sign in to the [Area K Ref Scheduler](http://www.schedulesetc.com/referee/index.asp?id=Area11KE16S) - these games are among regions.
 
 If you don't have an account then send an email to the Referee Administrator. A [guide](/docs/Using-the-Region-55-Referee-Scheduler.pdf) to use the scheduler is available, but the link is different for every season -- use the link above or substitute the correct year in the URL.  That is reg55nhb14F becomes reg55nhb15F for "region 55 north huntington beach 2015 fall". You get the idea.
 
