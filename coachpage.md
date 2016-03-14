@@ -1,5 +1,3 @@
-## Coaches Corner
-
 ### Coaching Requirements
 
 <!--
@@ -91,10 +89,8 @@ Tryouts for the Fall 2013 All-Star teams are scheduled for Sunday, November 10 a
 
 <img height="144" src="/images/cartoonp.gif" style="float:right" width="154" />
 
-### Unicorn Sports Discount Flyer
-You can support [Unicorn Sports](/coach/unicorn_2012.pdf) and get a 20% discount.
-
 ## AYSO philosophy:
+
 + Everybody plays
 + Open registration
 + Balanced teams
