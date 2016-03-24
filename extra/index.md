@@ -16,11 +16,11 @@ See a [PDF](/extra/EXTRA2016.pdf) of the EXTRA program for easy printing.
 
 ### Why 55
 
-Region 55 has enjoyed a great deal of success with our EXTRA Program.  Numerous tournament championships, Champions Cups & Western States Championships have been won over the past few years.  Our teams are always competitive and amongst the top teams in the area.  But more important than the on field success, our coaches and Region leadership strive to create a positive environment for the players and their families.  All players play a minimum of ¾ of each game.  Coaches are positive and focused on player development.  Your kids will have fun, be competitive and will develop their soccer skills.
+Region 55 has enjoyed a great deal of success with our EXTRA Program.  Numerous tournament championships, Champions Cups & Western States Championships have been won over the past few years.  Our teams are always competitive and amongst the top teams in the area.  But more important than the on field success, our coaches and Region leadership strive to create a positive environment for the players and their families.  All players play a minimum 3/4 of each game.  Coaches are positive and focused on player development.  Your kids will have fun, be competitive and will develop their soccer skills.
 
 ### Tryouts
 
-Open tryouts for Region 55’s Fall 2016 Extra teams will be held on Sunday, April 17th and Sunday, May 1st, 2016 at Sun View.  Players should plan to attend both tryout dates.  Detailed information about the Extra program, the team selection process, and times are included below.  Sign-in online at the following link:
+Open tryouts for Region 55 Fall 2016 Extra teams will be held on Sunday, April 17th and Sunday, May 1st, 2016 at Sun View.  Players should plan to attend both tryout dates.  Detailed information about the Extra program, the team selection process, and times are included below.  Sign-in online at the following link:
  (http://goo.gl/forms/3SR1LnVNo9)
 
 ### Overview of the Region 55 EXTRA Program
@@ -37,7 +37,7 @@ EXTRA Team players may not play on another AYSO standard primary program team du
  
 ### Team Selection Process
 
-EXTRA teams will be selected based on an open tryout process each season.  For each division Region 55 will determine if there is a sufficient pool of players with the appropriate skill level to hold a tryout.  Tryouts for selected divisions will be announced on the Region’s website.  Tryouts are open to any player that meets the age and gender requirements for that respective division.  Members of an EXTRA team from a prior season are not guaranteed a spot on the current season team.  A committee of unbiased coaches will evaluate and rate all players that attend the tryout.  Coaches of a prior year EXTRA team are permitted to sit on the committee.  Coaches with their own child participating in the tryout may also sit on the committee, however, they will not evaluate their own child.  At the end of the tryout all player ratings will be compiled and reviewed.  Region 55 will determine if there are enough EXTRA caliber players to form a competitive EXTRA team, and if so, which players are selected.  Notification will be made within a reasonable time after the tryout.
+EXTRA teams will be selected based on an open tryout process each season.  For each division Region 55 will determine if there is a sufficient pool of players with the appropriate skill level to hold a tryout.  Tryouts for selected divisions will be announced on the Region's website.  Tryouts are open to any player that meets the age and gender requirements for that respective division.  Members of an EXTRA team from a prior season are not guaranteed a spot on the current season team.  A committee of unbiased coaches will evaluate and rate all players that attend the tryout.  Coaches of a prior year EXTRA team are permitted to sit on the committee.  Coaches with their own child participating in the tryout may also sit on the committee, however, they will not evaluate their own child.  At the end of the tryout all player ratings will be compiled and reviewed.  Region 55 will determine if there are enough EXTRA caliber players to form a competitive EXTRA team, and if so, which players are selected.  Notification will be made within a reasonable time after the tryout.
 
 ### Roster Sizes
 
@@ -74,7 +74,7 @@ Note: The AYSO EXTRA program will continue with the school year age guide for th
  
 ### Coaches
 
-All AYSO EXTRA coaches need to have completed age appropriate coach training as well as Intermediate Coach training (U10 and U11) and Advanced Coach training (U12–U14). All AYSO EXTRA coaches must be Coach Safe Haven certified. In addition, each coach must be a trained and certified referee (Basic or higher badge level). In the case of training/certification deficiency, the applicable coach will be given until August 25 of the current registration year to obtain the necessary training/certification.  If you are interested in coaching an EXTRA team, please contact Paul Kirby and Jason Kakimoto.
+All AYSO EXTRA coaches need to have completed age appropriate coach training as well as Intermediate Coach training (U10 and U11) and Advanced Coach training (U12-U14). All AYSO EXTRA coaches must be Coach Safe Haven certified. In addition, each coach must be a trained and certified referee (Basic or higher badge level). In the case of training/certification deficiency, the applicable coach will be given until August 25 of the current registration year to obtain the necessary training/certification.  If you are interested in coaching an EXTRA team, please contact Paul Kirby and Jason Kakimoto.
  
 For additional information about the EXTRA program please see the link:
 http://www.ayso.org/For_Families/AYSO_Soccer_Programs/EXTRA.htm#.UzIlQqhdVyU
