@@ -33,16 +33,15 @@ for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](https://chal
 
 ### Referee Training
 
-Spring 2016 referee training for new regional referees and referees seeking
-to upgrade their badge will be offered at the Area K SuperCamp on
-February 27-28, 2016.
+Fall 2016 referee training for new regional referees and referees seeking to upgrade their badge will be offered at the Area K Training Academy on August 6-8, 2016.
 
-More details can be found at (http://www.ayso11k.org/supercamp/supercamp.shtml)
+More details can be found at (http://www.ayso11k.org/training_academy/training_academy.shtml)
 
 ### Spring 2016 Soccer
 
 Check the Registration button for Spring 2016 information, and coaching information available on the Coaching page.
 
+Region 55 Fall 2016 referee training dates, times and locations will be announced in late June.
 
 ### Support the Ducharme Family
 

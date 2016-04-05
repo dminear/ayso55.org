@@ -1,26 +1,12 @@
-### Training
+### Registration
 
-<strong>All registration is done online at [eayso](http://www.eayso.org)! You need to register there before you attend any classes!</strong> 
+All registration is done online at eayso! You need to register there before you attend any classes!  Please refer to the [Registration page](http://ayso55.org/registration.html) for more information on how to register.
 
 ### Referee Training
 
-Referee On-Line Training:  this is a two-part course requirement. Part 1 is taking
-the on-line referee training course at www.aysotraining.org. Select the Referee
-On-Line Training Course to begin. You will need an AYSO ID Number (see above
-for online registration -- you must have an ID to map the training to). This
-will take a new referee approximately 2 to 3 hours to complete. Part 2 is
-attending the companion course on August 29th. Enroll for this class at
-(http://www.eayso.org) and select the Basic Referee On-Line Companion
-Course, Roster 201502636. Both parts are required to certify you as a Referee. 
+Fall 2016 referee training for new regional referees and referees seeking to upgrade their badge will be offered at the [Area K Training Academy](http://www.ayso11k.org/training_academy/training_academy.shtml) on August 6-8, 2016.
 
-### Fall 2015
-
-[Referee Training](/docs/Fall2015/Fall%202015%20Ref%20Training.pdf)
-
-Referee Training is done in stages built on each other. First is a U8 Certification, and allows you to referee U6 and U8. After taking the U8 class, you can take the Regional Referee class, which allows you to referee U6  - U12.  Further stages are Intermediate Referee, Advanced Referee, and National Referee.
-
-See the [Training Dates](/docs/Fall2015/Fall%202015%20Dates.pdf) for class dates and times.
-
+Region 55 Fall 2016 referee training dates, times and locations will be announced in late June.
 
 <a href="https://twitter.com/AYSO55Referee" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @AYSO55Referee</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
