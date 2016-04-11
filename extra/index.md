@@ -6,10 +6,6 @@ The Extra Tryouts will be taking place on Sunday, April 17th and Sunday, May 1st
 * U13G and U12G will be held from 12:00 PM to 1:30 PM
 * U11G and U11B and U12B will be held from 2:00 PM to 3:30 PM
 
-## EXTRA Team Camp
-
-[Register for the Extra Team Camp.](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&imp=f&iid=75858&&returncom=productlist)  This particular session is for our Extra teams only.
-
 ## AYSO Region 55 Fall 2016 EXTRA Program
 
 See a [PDF](/extra/EXTRA2016.pdf) of the EXTRA program for easy printing.
@@ -51,13 +47,13 @@ EXTRA teams will be selected based on an open tryout process each season.  For e
 
 Please arrive 15 minutes before your scheduled tryout.  Refer to the age guide below for the proper tryout division.  Players should be appropriately dressed to play soccer, including cleats & shinguards.  They should also bring a ball and water bottle with their name on it that they will carry with them throughout the tryout. All participants should sign-in early at the following link to avoid lines on tryout day and so we know how many players will be attending.  (http://goo.gl/forms/3SR1LnVNo9)
 
-### Sunday, April 17 @ Sun View 
+### Sunday, April 17 @ Sun View, 7721 Juliette Low Dr
 
 * U-14 Girls & U-13 Boys  10:00 am - 11:30 am
 * U-13 Girls & U-12 Girls   12:00 pm - 1:30 pm
 * U-12 Boys/U-11 Boys & U11 Girls   2:00 pm - 3:30 pm
  
-### Sunday, May 1 @ Sun View
+### Sunday, May 1 @ Sun View, 7721 Juliette Low Dr
 
 * U-14 Girls & U-13 Boys  10:00 am - 11:30 am
 * U-13 Girls & U-12 Girls   12:00 pm - 1:30 pm
@@ -79,5 +75,5 @@ All AYSO EXTRA coaches need to have completed age appropriate coach training as 
 For additional information about the EXTRA program please see the link:
 http://www.ayso.org/For_Families/AYSO_Soccer_Programs/EXTRA.htm#.UzIlQqhdVyU
  
-For any additional questions please contact the Region 55 Coach Administrators Paul Kirby and Jason Kakimoto at coach@ayso55.org & asstcoach@ayso55.org.
+For any additional questions please contact the Region 55 Coach Administrators Paul Kirby and Jason Kakimoto at coach@ayso55.org and asstcoach@ayso55.org.
 
