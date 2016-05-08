@@ -1,10 +1,6 @@
 ## Extra Tryouts
 
-The Extra Tryouts will be taking place on Sunday, April 17th and Sunday, May 1st at [Sun View](https://goo.gl/maps/rH3zf).
-
-* U14G and U13B will be held from 10:00 AM to 11:30 PM
-* U13G and U12G will be held from 12:00 PM to 1:30 PM
-* U11G and U11B and U12B will be held from 2:00 PM to 3:30 PM
+Notification emails from the first Extra tryouts have all been sent.  If you did not receive the message please contact us at: asstcoach@ayso55.org  along with your child's name.
 
 ## AYSO Region 55 Fall 2016 EXTRA Program
 
