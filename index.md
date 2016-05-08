@@ -2,29 +2,6 @@
 
 Region 55 is proud to host our very own [Sun & Surf Tournament](/sunsurf). Get involved and make Butch proud too!
 
-### Extra Tryouts
-
-The Extra Tryouts will be taking place on Sunday, April 17th and Sunday, May 1st at [Sun View](https://goo.gl/maps/rH3zf).
-
-* U14G and U13B will be held from 10:00 AM to 11:30 PM
-* U13G and U12G will be held from 12:00 PM to 1:30 PM
-* U11G and U11B and U12B will be held from 2:00 PM to 3:30 PM
-
-<!--
-### CONGRATULATIONS TO REGION 55'S U13G EXTRA TEAM - SECTION 11 CHAMPIONS
-
-![champs](/docs/Fall2015/IMG_8333-614x397.jpg)
-
-COACH VOLZ, COACH KIRBY AND THE TEAM WILL BE OFF TO ARIZONA FOR THE
-WESTERN STATE CHAMPIONSHIPS
-
-### CONGRATULATIONS TO OUR U14G All STAR TEAM
-
-![u14g_all_star](/docs/Fall2015/U14G_all_star.jpg)
-
-Congratulations to our U14G All Star Team - Area K Champions.  Coach Johnson and the team now move on to the Section Playoffs.
--->
-
 ### Region 55 Challenger Sports U6-U8 Spring Program
 
 Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf) 
