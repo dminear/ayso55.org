@@ -1,8 +1,10 @@
 ## Butch Ducharme Memorial Sun and Surf Tournament
 
-***Deadline extended to June 3!*** ![Deadline](/sunsurf/Callout.png)
+
 
 <div class="center">
+***Deadline extended to June 3!*** ![Deadline](/sunsurf/Callout.png)
+
 ![sunsurf](sunsurf_logo.png)
 </div>
 
