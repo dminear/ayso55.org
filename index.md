@@ -1,6 +1,8 @@
 ## Butch Ducharme Memorial Sun and Surf Tournament
 
-Region 55 is proud to host our very own [Sun & Surf Tournament](/sunsurf). Get involved and make Butch proud too!
+***Deadline extended to June 3***
+
+Region 55 is proud to host our very own [Sun & Surf Tournament](/sunsurf). Get involved and make Butch proud too! ![Deadline](/sunsurf/Callout.png)
 
 ### Region 55 Challenger Sports U6-U8 Spring Program
 
