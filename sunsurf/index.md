@@ -10,6 +10,9 @@
 
 [Link to schedules](http://www.schedulesetc.com/active/schedule.asp?id=Reg55NHB16Tourn&age=G-12)
 
+### Volunteer Signup
+
+<a href="http://vols.pt/Eezfaw" target="_blank"><img src="//www.volunteerspot.com/imgs/icons/signup-btn.png" alt="Click to View Volunteer Opportunities on VolunteerSpot"></a>
 
 <div class="center">
 **To be held on June 18th and 19th 2016.**
@@ -53,7 +56,4 @@ Running on Windows XP sp, 32 bit. Other browsers, e.g., Safari, Opera, AOL, not 
 
 If you have any questions, or if the software breaks, contact the [section 11K webmaster](mailto:wbmstr@ayso11k.org).
 
-### Volunteer Signup
-
-<a href="http://vols.pt/Eezfaw" target="_blank"><img src="//www.volunteerspot.com/imgs/icons/signup-btn.png" alt="Click to View Volunteer Opportunities on VolunteerSpot"></a>
 
