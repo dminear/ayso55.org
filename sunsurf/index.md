@@ -14,6 +14,14 @@
 
 <a href="http://vols.pt/Eezfaw" target="_blank"><img src="//www.volunteerspot.com/imgs/icons/signup-btn.png" alt="Click to View Volunteer Opportunities on VolunteerSpot"></a>
 
+
+### Referee Schedules
+
+[schedule by referee](/sunsurf/2016 Sun and Surf Tournament Team Schedule by Referee.pdf)
+
+[schedule by team](/sunsurf/2016 Sun and Surf Tournament Team Schedule.pdf)
+
+
 <div class="center">
 **To be held on June 18th and 19th 2016.**
 </div>
