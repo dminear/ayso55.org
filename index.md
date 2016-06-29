@@ -1,5 +1,9 @@
+
 ## Butch Ducharme Memorial Sun and Surf Tournament
 
+Thank you to all the volunteers, players, and parents who made the first Butch Ducharme Memorial Sun and Surf Tournament such a great success. We know Butch is proud of our work, and even better that the players had a great time too!
+
+<!--
 ***Deadline extended to June 3***
 
 Region 55 is proud to host our very own [Sun & Surf Tournament](/sunsurf). Get involved and make Butch proud too! ![Deadline](/sunsurf/Callout.png)
@@ -9,24 +13,33 @@ Region 55 is proud to host our very own [Sun & Surf Tournament](/sunsurf). Get i
 Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf) 
 for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&iid=81345&m=0&cid=313&zip=92647&zipdis=30&returncom=productlist). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
  email osharp@challengersports.com
+-->
 
-### Referee Training
+### British Soccer Camps
 
-Fall 2016 referee training for new regional referees and referees seeking to upgrade their badge will be offered at the Area K Training Academy on August 6-8, 2016.
+![BSC Logo](/images/BSC2015-WebBanners-125x125.jpg) Region 55 will host 2 soccer camps this summer. The weeks are July 11 - July 15 2016, and August 1 - August 5, 2016. To sign up, visit the [Challenger Sports](https://challenger.configio.com/ShoppingCart.aspx?com=productlist&txt=AYSO%20Region%2055&zip=92647&zipdis=30&cid=321&m=0&srch=t) site.
 
-More details can be found at (http://www.ayso11k.org/training_academy/training_academy.shtml)
+New! There is also an Extra camp from August 18 = August 21, 2016. Check out [Challenger Sports](https://challenger.configio.com/ShoppingCart.aspx?com=productlist&txt=AYSO%20Region%2055&zip=92647&zipdis=30&cid=321&m=0&srch=t) to sign up.
 
+![British Soccer Camps](/images/BSC2015-WebBanners-720x80.jpg)
+
+### Coach and Referee Training
+
+Fall 2016 coach and referee training for coaches, new regional referees, and referees seeking to upgrade their badge will be offered at the Area K Training Academy on August 6-8, 2016.
+
+More details can be found at (http://www.ayso11k.org/training_academy/training_academy.shtml) or check out this [flyer](/docs/Fall2016/TrainingAcademy2016.pdf)
+
+<!--
 ### Spring 2016 Soccer
 
 Check the Registration button for Spring 2016 information, and coaching information available on the Coaching page.
+-->
 
-Region 55 Fall 2016 referee training dates, times and locations will be announced in late June.
-
+<!--
 ### Support the Ducharme Family
 
-<!-- 
 ![Butch](https://2dbdd5116ffa30a49aa8-c03f075f8191fb4e60e74b907071aee8.ssl.cf1.rackcdn.com/6021654_1442348383.1251.jpg)
--->
+
 
 Butch Ducharme passed away suddenly on Friday September 11th, leaving behind 
 his wife and three daughters. He was a loving husband to his wife Mona and a 
@@ -39,15 +52,16 @@ He meant so much to the children and families of AYSO and made a huge impact
 in many lives over his 16 years of service as a coach, referee and 
 Commissioner of Region 55.  We are truly heartbroken.
  
-<!--The vigil will be Monday 9/21/15 at 7pm, and the Memorial Service will be 
+The vigil will be Monday 9/21/15 at 7pm, and the Memorial Service will be 
 Tuesday 9/22/15 at 10:30am with a reception to follow at the church hall.
 Services will be held at St. Bonaventure Church located at 
-16400 Springdale Street, Huntington Beach, Ca 92649 -->
+16400 Springdale Street, Huntington Beach, Ca 92649 
 
 In lieu of flowers, we ask that donations be made through 
 [this account](http://www.gofundme.com/2m48e8jc) 
 to help give back to his wife and children the love we all received 
 from Butch. 
+-->
 
 <!--
 
@@ -67,21 +81,6 @@ See the [Extra](/extra/) page for detailed information.
 
 
 
-<!--
-### 2015 British Soccer Camps
-
-![BSC Logo](/images/BSC2015-WebBanners-125x125.jpg)Region 55 will host 3 soccer camps this summer. These are popular so instead of two we added a third. The dates are:
-
-* [Week 1 - June 22 - 26](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&imp=f&iid=63708&&returncom=productlist)
-
-
-* [Week 2 - July 13 - 17](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&imp=f&iid=59356&&returncom=productlist)
-
-
-* [Week 3 - August 3 - 7](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&imp=f&iid=59364&&returncom=productlist)
-
-![British Soccer Camps](/images/BSC2015-WebBanners-720x80.jpg)
--->
 
 <!--
 ### Spring 2015 Soccer Registration
