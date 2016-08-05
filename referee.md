@@ -4,9 +4,44 @@ All registration is done online at eayso! You need to register there before you 
 
 ### Referee Training
 
+<!--
 Fall 2016 referee training for new regional referees and referees seeking to upgrade their badge will be offered at the [Area K Training Academy](http://www.ayso11k.org/training_academy/training_academy.shtml) on August 6-8, 2016.
+-->
 
-Region 55 Fall 2016 referee training dates, times and locations will be announced in late June.
+Please read each option carefully as each one has it's own set of unique requirements
+
+#### Option 1:
+
+Area K Academy will offer classroom only (traditional) Basic Referee training on both Saturday August 6th and Sunday 7th at Fountain Valley High School.  Volunteers only need to attend one of the two days.  Interested volunteers should sign up via eAYSO.org before attending, but walk ins are accepted.
+
+* Intermediate, Advanced and National referee courses are also being offered at the Academy for anyone interested.
+
+* More information can be found at [Area site](http://www.ayso11k.org/training_academy/training_academy.shtml)
+
+#### Option 2:
+
+Region 55 will offer the Online Companion Course on both Saturday August 13th and again on Saturday August 20th at College View Elementary School.  Both sessions are schedule to start at 9AM and run until 1PM.  Lunch will be provided.
+
+The August 13th course will be primarily focus on training adult referee volunteers while the August 20th course will be primarily focused on training youth referee volunteers.  However, both youth and adults are welcome to attend either session.
+
+The Online Companion Course has several important prerequisites:
+
+* Attendees must register for the course through eAYSO.org
+* Attendees must have completed the Online Basic Referee Course
+* Attendees must have completed the Safe Haven Referee online course
+* Attendees must have completed the CDC Concussion Awareness online course
+
+#### Option 3:
+
+Region 55 will offer classroom only (traditional) Basic Referee training on two consecutive evenings, September 6th and 7th at Southern California Edison.   Volunteers will need to attend both nights to complete Basic Referee training.  Dinner will be provided.
+
+The Basic Referee Course has several important prerequisites:
+
+* Attendees must register for the course through eAYSO.org
+* Attendees must have completed the Safe Haven Referee online course
+* Attendees must have completed the CDC Concussion Awareness online course
+
+
 
 <a href="https://twitter.com/AYSO55Referee" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @AYSO55Referee</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
@@ -23,11 +58,12 @@ U6 and U8 - home team provides the referee.
 
 U10 and U12 - sign in to the [Region 55 Ref Scheduler](http://www.schedulesetc.com/referee/index.asp?id=reg55nhb15F) - all these games are in the region.
 
-U14 and up - -->
+U14 and up - 
+-->
 
 sign in to the [Area K Ref Scheduler](http://www.schedulesetc.com/referee/index.asp?id=Area11KE16S) - these games are among regions.
 
-If you don't have an account then send an email to the Referee Administrator. A [guide](/docs/Using-the-Region-55-Referee-Scheduler.pdf) to use the scheduler is available, but the link is different for every season -- use the link above or substitute the correct year in the URL.  That is reg55nhb14F becomes reg55nhb15F for "region 55 north huntington beach 2015 fall". You get the idea.
+If you do not have an account then send an email to the Referee Administrator. A [guide](/docs/Using-the-Region-55-Referee-Scheduler.pdf) to use the scheduler is available, but the link is different for every season -- use the link above or substitute the correct year in the URL.  That is reg55nhb14F becomes reg55nhb15F for "region 55 north huntington beach 2015 fall". You get the idea.
 
 ### Referee Mentoring
 

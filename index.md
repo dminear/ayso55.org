@@ -1,3 +1,8 @@
+### Team Parent Meeting
+
+The Team Parent Meeting will be at Murdy Park Room A.  It is scheduled for Saturday, August 13th at 3:30-4:30.  Please let your team parents know to enter off the patio.  The gate is off of Norma Drive. Very important all team parents are in attendance, they will be picking up their team parent folder and their attendance will make them eligible for 1 of 3 free banner giveaways.
+
+
 <!--
 ### Region 55 Challenger Sports U6-U8 Spring Program
 
