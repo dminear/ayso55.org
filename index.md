@@ -1,19 +1,9 @@
-
-## Butch Ducharme Memorial Sun and Surf Tournament
-
-Thank you to all the volunteers, players, and parents who made the first Butch Ducharme Memorial Sun and Surf Tournament such a great success. We know Butch is proud of our work, and even better that the players had a great time too!
-
 <!--
-***Deadline extended to June 3***
-
-Region 55 is proud to host our very own [Sun & Surf Tournament](/sunsurf). Get involved and make Butch proud too! ![Deadline](/sunsurf/Callout.png)
-
 ### Region 55 Challenger Sports U6-U8 Spring Program
 
 Please see the [flyer](/docs/Spring2016/AYSO-55-Skills-League-Flyer-Feb-2016.pdf) 
 for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](https://challenger.mycustomevent.com/ShoppingCart.aspx?com=detailview&iid=81345&m=0&cid=313&zip=92647&zipdis=30&returncom=productlist). If you have any questions please contact: Oli Sharp at phone 760-536-4468 or
  email osharp@challengersports.com
--->
 
 ### British Soccer Camps
 
@@ -22,6 +12,7 @@ for more information. REGISTER ONLINE at [WWW.CHALLENGERSPORTS.COM](https://chal
 New! There is also an Extra camp from August 18 = August 21, 2016. Check out [Challenger Sports](https://challenger.configio.com/ShoppingCart.aspx?com=productlist&txt=AYSO%20Region%2055&zip=92647&zipdis=30&cid=321&m=0&srch=t) to sign up.
 
 ![British Soccer Camps](/images/BSC2015-WebBanners-720x80.jpg)
+-->
 
 ### Coach and Referee Training
 
@@ -35,41 +26,11 @@ More details can be found at (http://www.ayso11k.org/training_academy/training_a
 Check the Registration button for Spring 2016 information, and coaching information available on the Coaching page.
 -->
 
-<!--
-### Support the Ducharme Family
 
-![Butch](https://2dbdd5116ffa30a49aa8-c03f075f8191fb4e60e74b907071aee8.ssl.cf1.rackcdn.com/6021654_1442348383.1251.jpg)
-
-
-Butch Ducharme passed away suddenly on Friday September 11th, leaving behind 
-his wife and three daughters. He was a loving husband to his wife Mona and a 
-proud father to Olivia, Madeline and Gabrielle. 
-
-Butch touched countless lives through everything he did in the 
-community - always with a smile on his face. 
-
-He meant so much to the children and families of AYSO and made a huge impact 
-in many lives over his 16 years of service as a coach, referee and 
-Commissioner of Region 55.  We are truly heartbroken.
- 
-The vigil will be Monday 9/21/15 at 7pm, and the Memorial Service will be 
-Tuesday 9/22/15 at 10:30am with a reception to follow at the church hall.
-Services will be held at St. Bonaventure Church located at 
-16400 Springdale Street, Huntington Beach, Ca 92649 
-
-In lieu of flowers, we ask that donations be made through 
-[this account](http://www.gofundme.com/2m48e8jc) 
-to help give back to his wife and children the love we all received 
-from Butch. 
--->
-
-<!--
-
-### Fall 2015 Registration Dates
+### Fall 2016 Registration Dates
 
 <strong>All registration is done online at [eayso](http://www.eayso.org).</strong> The in person deadlines have passed, so the only option is to mail in your registration, and players will be put on a waiting list. See the [Registration](/registration.html) page for all the details.
 
--->
 
 ### Sweatshirt Order Form
 
@@ -79,9 +40,6 @@ New for this fall, you can download the [sweatshirt order form](/docs/Fall2015/S
 
 See the [Extra](/extra/) page for detailed information.
 
-
-
-
 <!--
 ### Spring 2015 Soccer Registration
 
@@ -89,33 +47,12 @@ See the [Extra](/extra/) page for detailed information.
 coaching (forming a team), please contact our Spring Director (see [Division Coordinators](division-coordinators.html) page). All coaches are subject
 to approval and not guaranteed a team.
 
-### All Star Program
-
-[AYSO All-Stars](/docs/Fall2014/All-Star-Information-AYSO-Region-55.pdf) is
-a continuation of play for players who played in the 
-recreational division of AYSO in the Fall (Extra players are not eligible).
-Tryouts and coaching information is now available.
-
 -->
 
 ### Region Handbook
 
-The [Region Handbook](/docs/Fall2015/AYSOR55RegionHandbook2015.pdf) has all the
+The [Region Handbook](/docs/Fall2016/AYSO R55 Region Handbook 2016.pdf) has all the
 info for our Region 55. Check it out for any questions you may have.
-
-### Notice About Drones
-
-On August 25, 2015, the Region 55 Board approved a resolution to prohibit the
-use of drones at games, practices and scrimmages. Soccer is a player's game.
-The Board's concerns range from a drone interfering with the game to the very
-real possibility that the drone will come down and hurt someone. Therefore,
-in order to ensure the health, welfare and safety of our players, coaches,
-officials and spectators Region 55 is prohibiting the use of drones. Referees
-have also been instructed to suspend the match if a drone is seen flying
-over the playing field.
-
-Thanks for being an ambassador of the game and for your help in providing a
-fun, safe and positive experience to our youth players.
 
 ## Become a Volunteer
 
@@ -124,7 +61,9 @@ fun, safe and positive experience to our youth players.
 The Child and Volunteer Protection Advocate CVPA can help! We need coaches, 
 referees, and lots of other help to keep Region 55 strong.
 
+<!-- 
 ## AYSO VIP Program
 
 Region 55 is starting up a VIP program! In the meantime, please see
 [Region 143's](http://www.ayso143.org/vip) site for more information on the VIP program. Remember, AYSO is Everyone Plays!
+-->

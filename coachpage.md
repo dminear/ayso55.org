@@ -1,19 +1,9 @@
 ### Coaching Requirements
 
 <!--
-Spring 2016 - [coach information](/docs/Spring2016/Spring-Coaches-2016-v2.pdf) is available.
-
-
-Fall 2015 - [coaching infomation](/coach/CoachingRequirements-2015Registration.pdf). Who can coach and what do I need?
-
-### Supercamp Flyer 2015
-Check out the [Supercamp Flyer](/docs/Spring2015/supercamp_flyer2015.pdf) for information about the Supercamp happening Feb 27 - March 1.
-
-
 ### College View Light Schedule
 
 The [Light Schedule](docs/Fall2015/CollegeViewLightSchedule.pdf) is available. It lists the times that teams have signed up to practice under the lights at College View.
-
 -->
 
 ### Lineup Card
@@ -22,70 +12,16 @@ You can grab the Region 55 [Lineup Card](/coach/Region_55_Lineup_Card.pdf)  fo
 
 ### Region Handbook
 
-You can find out all about Region 55 rules in the [Region Handbook for Fall 2015](/docs/Fall2015/AYSOR55RegionHandbook2015.pdf)
-
-<!--
-### Coaching Requirements
-
-[Fall 2014 - address updated-](/docs/Fall2014/CoachingRequirements-2014Registration-revised2.pdf) coaching infomation. Who can coach and what do I need?
-
-## Coach Training Schedules
-
-### Saturday, July 19, 2014 at College View (6852 Lennox Drive, Huntington Beach, CA)
-
-Coach Meeting to begin at 9:00 AM with training to follow shortly thereafter (approximately
-10:00 AM).
-
-* Meeting for all Divisions: 9:00 - 10:00
-* U6 Coach Training - 10:00 - 12:00
-* U8 Coach Training - 10:00 - 12:00
-* U10 Coach Training - 10:00 - 1:00
-* U12 Coach Training - 10:00 - 3:00
-
-### Wednesday, July 30, 2014 at College View (6852 Lennox Drive, Huntington Beach, CA)
-Meeting to begin at 5:00 pm with training to follow shortly thereafter (approximately 6:00 pm).
-
-* Meeting for all Divisions: 5:00 - 6:00
-* U6 Coach Training - 6:00 - 8:00
-* U8 Coach Training - 6:00 - 8:00
-* U10 Coach Training - No class offered on this date. Can be taken in any other AYSO Region.
-* U12 Coach Training - No class offered on this date. Can be taken in any other AYSO Region.
-
-### Additional Training Dates
-
-TBD - [Region 143](http://www.ayso143.org)
-
-August 2nd-3rd - Area K Supercamp, Fountain Valley High School, CA. U10, U12, Intermediate,
-Advanced Coach Training only (http://www.ayso11k.org/supercamp/supercamp.shtml) Times to
-be determined.
--->
-
-<!--
-### All-Star Program (U-10 to U-14)
-
-Tryouts for the Fall 2013 All-Star teams are scheduled for Sunday, November 10 and Sunday, November 17. [More information](http://ayso55.org/docs/AYSO_Region_55_All-Star_Program_Fall_2013.pdf)
-
-## Playoff Information
-
-[U10 Playoffs](/docs/2013_U10_Playoffs_100913.pdf)
-
-[U12 Playoffs](/docs/2013_U12_Playoffs_100913.pdf)
-
-[U14 Playoffs](/docs/2013_U14_Playoffs_100913.pdf)
-
-### Fall 2013 Light Schedule (College View)
-[Fall 2013 Light Schedule effective 10/09/13](/docs/2013_Light_Schedule_100913.pdf)
--->
+You can find out all about Region 55 rules in the [Region Handbook for Fall 2016](/docs/Fall2016/AYSO R55 Region Handbook 2016.pdf)
 
 
-### Coach Clinic Handouts</h3>
+### 2016 Coach Clinic Handouts
 
-[U6 Handout](/coach/U06%20Coach%20Clinic%20Handout%202012.pdf)
+[U6 Handout](/docs/Fall2016/U-6 Coach Clinic Handout 2016.pdf)
 
-[U8 Handout](/coach/U08%20Coach%20Clinic%20Handout%202012.pdf) 
+[U8 Handout](/docs/Fall2016/U-8 Coach Clinic Handout 2016.pdf)
 
-
-[U10 Handout](/coach/U10%20Coach%20Clinic%20Handout%202012.pdf)
+[U10 Handout](/docs/Fall2016/U-10 Coach Clinic Handout 2016.pdf)
 
 <img height="144" src="/images/cartoonp.gif" style="float:right" width="154" />
 
