@@ -25,7 +25,6 @@ New! There is also an Extra camp from August 18 = August 21, 2016. Check
 out [Challenger Sports](https://challenger.configio.com/ShoppingCart.aspx?com=productlist&txt=AYSO%20Region%2055&zip=92647&zipdis=30&cid=321&m=0&srch=t) to sign up.
 
 ![British Soccer Camps](/images/BSC2015-WebBanners-720x80.jpg)
--->
 
 ### Coach and Referee Training
 
@@ -35,13 +34,7 @@ Area K Training Academy on August 6-8, 2016.
 
 More details can be found at (http://www.ayso11k.org/training_academy/training_academy.shtml) or check out this [flyer](/docs/Fall2016/TrainingAcademy2016.pdf)
 
-<!--
-### Spring 2016 Soccer
-
-Check the Registration button for Spring 2016 information, and coaching 
-information available on the Coaching page.
 -->
-
 
 ### Fall 2016 Registration Dates
 
