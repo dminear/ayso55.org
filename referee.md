@@ -58,7 +58,7 @@ The Basic Referee Course has several important prerequisites:
 
 ### Referee Points
 
-[Current ref point listings](/refpoints/2015) have the point breakdown and current status.
+[Current ref point listings](/refpoints/2016) have the point breakdown and current status.
 
 <!--
 ### 2016 Spring Referee Scheduler
