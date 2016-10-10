@@ -29,6 +29,6 @@ Match Covered        Referee     AR
 </pre>
 -->
 
-* Week 1 not available
 * [Week 2](/refpoints/2016/Ref Points Fall 2016 Week 2.pdf)
-
+* [Week 4](/refpoints/2016/Ref Points Fall 2016 Week 4 redgreen.pdf)
+* Week 5 coming soon!
