@@ -2,6 +2,16 @@
 
 All registration is done online at eayso! You need to register there before you attend any classes!  Please refer to the [Registration page](http://ayso55.org/registration.html) for more information on how to register.
 
+### Referee Scheduling
+
+Check out the [helper document](http://ayso55.org/referee_docs/Referee Signups for Region 55 Fall 2016 U10 and U12 matches.pdf) on how to log into the ref scheduler.
+
+Area ref scheduler for U-14 and up is at (http://www.schedulesetc.com/referee/index.asp?id=area11k16f).
+
+Region ref scheduler for U-10 to U12 is at (http://www.schedulesetc.com/referee/index.asp?id=Reg55NHB16F).
+
+U6 and U8  -  the home team provides the referee.
+
 ### Referee Training
 
 <!--
@@ -48,22 +58,21 @@ The Basic Referee Course has several important prerequisites:
 
 ### Referee Points
 
-[Current ref point listings](/refpoints/2015) have the point breakdown and current status.
-
-### 2016 Spring Referee Scheduler
+[Current ref point listings](/refpoints/2016) have the point breakdown and current status.
 
 <!--
+### 2016 Spring Referee Scheduler
 
 U6 and U8 - home team provides the referee.
 
 U10 and U12 - sign in to the [Region 55 Ref Scheduler](http://www.schedulesetc.com/referee/index.asp?id=reg55nhb15F) - all these games are in the region.
 
 U14 and up - 
--->
 
 sign in to the [Area K Ref Scheduler](http://www.schedulesetc.com/referee/index.asp?id=Area11KE16S) - these games are among regions.
 
 If you do not have an account then send an email to the Referee Administrator. A [guide](/docs/Using-the-Region-55-Referee-Scheduler.pdf) to use the scheduler is available, but the link is different for every season -- use the link above or substitute the correct year in the URL.  That is reg55nhb14F becomes reg55nhb15F for "region 55 north huntington beach 2015 fall". You get the idea.
+-->
 
 ### Referee Mentoring
 
