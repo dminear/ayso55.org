@@ -2,5 +2,9 @@
 
 #rm -rf aysoout
 harp compile /var/www/minear.homeunix.com/ayso55.org aysoout
+
+# this commented out - guess skip-existing had problems?
 #s3cmd sync --config=/home/dan/.s3cfg --rexclude=.git --skip-existing --delete-removed aysoout/ s3://ayso55.org
-s3cmd sync --config=/home/dan/.s3cfg --rexclude=/old/ --rexclude=.git --delete-removed aysoout/ s3://ayso55.org
+
+# This was the active one
+#s3cmd sync --config=/home/dan/.s3cfg --rexclude=/old/ --rexclude=.git --delete-removed aysoout/ s3://ayso55.org
